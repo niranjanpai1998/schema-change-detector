@@ -1,0 +1,498 @@
+ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,DAYS_SINCE_LASTORDER,STATUS,PRODUCTLINE,PRODUCTCODE,CUSTOMERNAME,ADDRESSLINE1,CITY,COUNTRY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE,PHONE,MSRP,POSTALCODE
+10361,49,72.33,2,3544.17,2019-12-17,2417,Shipped,Vintage Cars,S32_4289,Souveniers And Things Co.,"Monitor Money Building, 815 Pacific Hwy",Chatswood,Australia,Huxley,Adrian,Medium,+61 2 9495 8555,68,2067
+10375,44,82.26,4,3619.44,2020-02-03,2370,Shipped,Vintage Cars,S32_4289,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Medium,40.67.8555,68,44000
+10388,35,111.97,8,3918.95,2020-03-03,2342,Shipped,Vintage Cars,S32_4289,FunGiftIdeas.com,1785 First Street,New Bedford,USA,Benitez,Violeta,Medium,5085552555,68,50553
+10398,22,67.41,4,1483.02,2020-03-30,2316,Shipped,Vintage Cars,S32_4289,Reims Collectables,59 rue de l'Abbaye,Reims,France,Henriot,Paul,Small,26.47.1555,68,51100
+10401,62,77.73,6,4819.26,2020-04-03,2313,On Hold,Vintage Cars,S32_4289,Tekni Collectables Inc.,7476 Moss Rd.,Newark,USA,Brown,William,Medium,2015559350,68,94019
+10416,26,61.22,7,1591.72,2020-05-10,2277,Shipped,Vintage Cars,S32_4289,L'ordine Souveniers,Strada Provinciale 124,Reggio Emilia,Italy,Moroni,Maurizio,Small,0522-556555,68,42100
+10108,31,118.38,16,3669.78,2018-03-03,3077,Shipped,Motorcycles,S32_4485,Cruz & Sons Co.,15 McCallum Street - NatWest Center #13-03,Makati City,Philippines,Cruz,Arnold,Medium,+63 2 555 3587,102,1227 MM
+10121,25,86.74,3,2168.5,2018-05-07,3013,Shipped,Motorcycles,S32_4485,Reims Collectables,59 rue de l'Abbaye,Reims,France,Henriot,Paul,Small,26.47.1555,102,51100
+10135,30,89.8,17,2694.0,2018-07-02,2958,Shipped,Motorcycles,S32_4485,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Small,4155551450,102,97562
+10145,27,120.42,4,3251.34,2018-08-25,2905,Shipped,Motorcycles,S32_4485,Toys4GrownUps.com,78934 Hillside Dr.,Pasadena,USA,Young,Julie,Medium,6265557265,102,90003
+10169,34,115.32,12,3920.88,2018-11-04,2835,Shipped,Motorcycles,S32_4485,"Anna's Decorations, Ltd",201 Miller Street,North Sydney,Australia,O'Hara,Anna,Medium,02 9936 8555,102,2060
+10180,22,114.3,7,2514.6,2018-11-11,2829,Shipped,Motorcycles,S32_4485,Daedalus Designs Imports,"184, chausse de Tournai",Lille,France,Rance,Martine,Small,20.16.1555,102,59000
+10190,42,85.72,4,3600.24,2018-11-19,2822,Shipped,Motorcycles,S32_4485,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,102,28034
+10211,37,109.19,12,4040.03,2019-01-15,2766,Shipped,Motorcycles,S32_4485,Auto Canal Petit,"25, rue Lauriston",Paris,France,Perrier,Dominique,Medium,(1) 47.55.6555,102,75016
+10224,30,111.23,5,3336.9,2019-02-21,2730,Shipped,Motorcycles,S32_4485,Daedalus Designs Imports,"184, chausse de Tournai",Lille,France,Rance,Martine,Medium,20.16.1555,102,59000
+10237,27,115.32,5,3113.64,2019-04-05,2688,Shipped,Motorcycles,S32_4485,Vitachrome Inc.,2678 Kingston Rd.,NYC,USA,Frick,Michael,Medium,2125551500,102,10022
+10252,25,113.28,9,2832.0,2019-05-26,2638,Shipped,Motorcycles,S32_4485,Auto Canal Petit,"25, rue Lauriston",Paris,France,Perrier,Dominique,Small,(1) 47.55.6555,102,75016
+10264,34,97.97,7,3330.98,2019-06-30,2604,Shipped,Motorcycles,S32_4485,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,USA,Yoshido,Juri,Medium,6175559555,102,51003
+10276,38,113.28,13,4304.64,2019-08-02,2572,Shipped,Motorcycles,S32_4485,Online Mini Collectables,7635 Spinnaker Dr.,Brickhaven,USA,Barajas,Miguel,Medium,6175557555,102,58339
+10285,26,100.01,4,2600.26,2019-08-27,2548,Shipped,Motorcycles,S32_4485,Marta's Replicas Co.,39323 Spinnaker Dr.,Cambridge,USA,Hernandez,Marta,Small,6175558555,102,51247
+10299,38,115.32,7,4382.16,2019-09-30,2515,Shipped,Motorcycles,S32_4485,"Toys of Finland, Co.",Keskuskatu 45,Helsinki,Finland,Karttunen,Matti,Medium,90-224 8555,102,21240
+10309,50,84.7,3,4235.0,2019-10-15,2501,Shipped,Motorcycles,S32_4485,Baane Mini Imports,Erling Skakkes gate 78,Stavern,Norway,Bergulfsen,Jonas,Medium,07-98 9555,102,4110
+10319,22,119.4,8,2626.8,2019-11-03,2483,Shipped,Motorcycles,S32_4485,Microscale Inc.,5290 North Pendale Street,NYC,USA,Kuo,Kee,Small,2125551957,102,10022
+10331,32,157.08,4,5026.56,2019-11-17,2470,Shipped,Motorcycles,S32_4485,Motor Mint Distributors Inc.,11328 Douglas Av.,Philadelphia,USA,Hernandez,Rosa,Medium,2155559857,102,71270
+10341,31,71.02,4,2201.62,2019-11-24,2464,Shipped,Motorcycles,S32_4485,Salzburg Collectables,Geislweg 14,Salzburg,Austria,Pipps,Georg,Small,6562-9555,102,5020
+10355,40,108.17,5,4326.8,2019-12-07,2452,Shipped,Motorcycles,S32_4485,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,102,28034
+10365,22,155.69,3,3425.18,2020-01-07,2422,Shipped,Motorcycles,S32_4485,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,USA,Tam,Wing C,Medium,5085559555,102,50553
+10375,41,114.68,15,4701.88,2020-02-03,2396,Shipped,Motorcycles,S32_4485,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Medium,40.67.8555,102,44000
+10390,45,48.98,12,2204.1,2020-03-04,2367,Shipped,Motorcycles,S32_4485,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Small,4155551450,102,97562
+10403,45,115.32,5,5189.4,2020-04-08,2333,Shipped,Motorcycles,S32_4485,"UK Collectables, Ltd.",Berkeley Gardens 12  Brewery,Liverpool,UK,Devon,Elizabeth,Medium,(171) 555-2282,102,WX1 6LT
+10106,39,40.15,6,1565.85,2018-02-17,3115,Shipped,Vintage Cars,S50_1341,Rovelli Gifts,Via Ludovico il Moro 22,Bergamo,Italy,Rovelli,Giovanni,Small,035-640555,43,24100
+10120,49,50.62,12,2480.38,2018-04-29,3045,Shipped,Vintage Cars,S50_1341,"Australian Collectors, Co.",636 St Kilda Road,Melbourne,Australia,Ferguson,Peter,Small,03 9520 4555,43,3004
+10133,27,50.19,7,1355.13,2018-06-27,2987,Shipped,Vintage Cars,S50_1341,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,43,28034
+10143,34,36.66,1,1246.44,2018-08-10,2944,Shipped,Vintage Cars,S50_1341,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,USA,Tam,Wing C,Small,5085559555,43,50553
+10156,20,41.02,1,820.4,2018-10-08,2886,Shipped,Vintage Cars,S50_1341,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,43,28034
+10168,48,51.93,13,2492.64,2018-10-28,2867,Shipped,Vintage Cars,S50_1341,Technics Stores Inc.,9408 Furth Circle,Burlingame,USA,Hirano,Juri,Small,6505556809,43,94217
+10199,29,38.4,1,1113.6,2018-12-01,2834,Shipped,Vintage Cars,S50_1341,West Coast Collectables Co.,3675 Furth Circle,Burbank,USA,Thompson,Steve,Small,3105553722,43,94019
+10210,43,41.02,11,1763.86,2019-01-12,2793,Shipped,Vintage Cars,S50_1341,Osaka Souveniers Co.,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Japan,Kentary,Mory,Small,+81 06 6342 5555,43,530-0003
+10223,41,46.26,13,1896.66,2019-02-20,2755,Shipped,Vintage Cars,S50_1341,"Australian Collectors, Co.",636 St Kilda Road,Melbourne,Australia,Ferguson,Peter,Small,03 9520 4555,43,3004
+10235,41,35.35,7,1449.35,2019-04-02,2715,Shipped,Vintage Cars,S50_1341,"Royal Canadian Collectables, Ltd.",23 Tsawassen Blvd.,Tsawassen,Canada,Lincoln,Elizabeth,Small,(604) 555-4555,43,T2F 8M4
+10250,36,51.93,8,1869.48,2019-05-11,2677,Shipped,Vintage Cars,S50_1341,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,USA,Frick,Sue,Small,4085553659,43,94217
+10262,49,37.97,3,1860.53,2019-06-24,2634,Cancelled,Vintage Cars,S50_1341,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,43,28034
+10275,38,45.39,13,1724.82,2019-07-23,2606,Shipped,Vintage Cars,S50_1341,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Small,40.67.8555,43,44000
+10284,33,51.93,5,1713.69,2019-08-21,2578,Shipped,Vintage Cars,S50_1341,"Norway Gifts By Mail, Co.","Drammensveien 126 A, PB 744 Sentrum",Oslo,Norway,Klaeboe,Jan,Small,+47 2212 1555,43,N 0106
+10296,26,48.44,1,1259.44,2019-09-15,2554,Shipped,Vintage Cars,S50_1341,"Bavarian Collectables Imports, Co.",Hansastr. 15,Munich,Germany,Donnermeyer,Michael,Small,+49 89 61 08 9555,43,80686
+10308,47,43.64,11,2051.08,2019-10-15,2525,Shipped,Vintage Cars,S50_1341,Mini Classics,3758 North Pendale Street,White Plains,USA,Frick,Steve,Small,9145554562,43,24067
+10316,34,47.57,3,1617.38,2019-11-01,2509,Shipped,Vintage Cars,S50_1341,giftsbymail.co.uk,Garden House Crowther Way,Cowes,UK,Bennett,Helen,Small,(198) 555-8888,43,PO31 7PJ
+10328,34,51.93,7,1765.62,2019-11-12,2499,Shipped,Vintage Cars,S50_1341,Rovelli Gifts,Via Ludovico il Moro 22,Bergamo,Italy,Rovelli,Giovanni,Small,035-640555,43,24100
+10340,40,50.62,4,2024.8,2019-11-24,2488,Shipped,Vintage Cars,S50_1341,Enaco Distributors,"Rambla de Catalu¤a, 23",Barcelona,Spain,Saavedra,Eduardo,Small,(93) 203 4555,43,8022
+10353,40,82.21,8,3288.4,2019-12-04,2479,Shipped,Vintage Cars,S50_1341,Gift Ideas Corp.,2440 Pompton St.,Glendale,USA,Lewis,Dan,Medium,2035554407,43,97561
+10361,33,82.59,3,2725.47,2019-12-17,2467,Shipped,Vintage Cars,S50_1341,Souveniers And Things Co.,"Monitor Money Building, 815 Pacific Hwy",Chatswood,Australia,Huxley,Adrian,Small,+61 2 9495 8555,43,2067
+10375,49,65.8,5,3224.2,2020-02-03,2420,Shipped,Vintage Cars,S50_1341,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Medium,40.67.8555,43,44000
+10388,27,118.94,1,3211.38,2020-03-03,2392,Shipped,Vintage Cars,S50_1341,FunGiftIdeas.com,1785 First Street,New Bedford,USA,Benitez,Violeta,Medium,5085552555,43,50553
+10398,49,36.66,5,1796.34,2020-03-30,2366,Shipped,Vintage Cars,S50_1341,Reims Collectables,59 rue de l'Abbaye,Reims,France,Henriot,Paul,Small,26.47.1555,43,51100
+10401,56,35.35,7,1979.6,2020-04-03,2363,On Hold,Vintage Cars,S50_1341,Tekni Collectables Inc.,7476 Moss Rd.,Newark,USA,Brown,William,Small,2015559350,43,94019
+10416,37,51.93,8,1921.41,2020-05-10,2327,Shipped,Vintage Cars,S50_1341,L'ordine Souveniers,Strada Provinciale 124,Reggio Emilia,Italy,Moroni,Maurizio,Small,0522-556555,43,42100
+10104,33,112.28,7,3705.24,2018-01-31,3158,Shipped,Trucks and Buses,S50_1392,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,115,28034
+10115,27,105.33,3,2843.91,2018-04-04,3096,Shipped,Trucks and Buses,S50_1392,Classic Legends Inc.,5905 Pompton St.,NYC,USA,Hernandez,Maria,Small,2125558493,115,10022
+10127,46,134.27,9,6176.42,2018-06-03,3037,Shipped,Trucks and Buses,S50_1392,Muscle Machine Inc,4092 Furth Circle,NYC,USA,Young,Jeff,Medium,2125557413,115,10022
+10141,44,125.01,3,5500.44,2018-08-01,2979,Shipped,Trucks and Buses,S50_1392,Suominen Souveniers,"Software Engineering Center, SEC Oy",Espoo,Finland,Suominen,Kalle,Medium,+358 9 8045 555,115,FIN-02271
+10151,26,123.85,1,3220.1,2018-09-21,2929,Shipped,Trucks and Buses,S50_1392,"Oulu Toy Supplies, Inc.",Torikatu 38,Oulu,Finland,Koskitalo,Pirkko,Medium,981-443655,115,90110
+10165,48,94.92,10,4556.16,2018-10-22,2899,Shipped,Trucks and Buses,S50_1392,"Dragon Souveniers, Ltd.","Bronz Sok., Bronz Apt. 3/6 Tesvikiye",Singapore,Singapore,Natividad,Eric,Medium,+65 221 7555,115,79903
+10176,23,135.43,9,3114.89,2018-11-06,2885,Shipped,Trucks and Buses,S50_1392,L'ordine Souveniers,Strada Provinciale 124,Reggio Emilia,Italy,Moroni,Maurizio,Medium,0522-556555,115,42100
+10184,45,109.96,4,4948.2,2018-11-14,2878,Shipped,Trucks and Buses,S50_1392,"Iberia Gift Imports, Corp.","C/ Romero, 33",Sevilla,Spain,Roel,Jose Pedro,Medium,(95) 555 82 82,115,41101
+10195,49,105.33,4,5161.17,2018-11-25,2868,Shipped,Trucks and Buses,S50_1392,Mini Classics,3758 North Pendale Street,White Plains,USA,Frick,Steve,Medium,9145554562,115,24067
+10207,28,94.92,5,2657.76,2018-12-09,2855,Shipped,Trucks and Buses,S50_1392,Diecast Collectables,6251 Ingle Ln.,Boston,USA,Franco,Valarie,Small,6175552555,115,51003
+10220,37,107.65,9,3983.05,2019-02-12,2791,Shipped,Trucks and Buses,S50_1392,"Clover Collections, Co.",25 Maiden Lane,Dublin,Ireland,Cassidy,Dean,Medium,+353 1862 1555,115,2
+10230,34,116.91,7,3974.94,2019-03-15,2761,Shipped,Trucks and Buses,S50_1392,"Blauer See Auto, Co.",Lyonerstr. 34,Frankfurt,Germany,Keitel,Roland,Medium,+49 69 66 90 2555,115,60528
+10246,22,133.11,3,2928.42,2019-05-05,2711,Shipped,Trucks and Buses,S50_1392,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,115,28034
+10259,29,105.33,2,3054.57,2019-06-15,2671,Shipped,Trucks and Buses,S50_1392,Handji Gifts& Co,Village Close - 106 Linden Road Sandown,Singapore,Singapore,Victorino,Wendy,Medium,+65 224 1555,115,69045
+10271,34,98.39,3,3345.26,2019-07-20,2637,Shipped,Trucks and Buses,S50_1392,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Medium,4155551450,115,97562
+10282,38,113.44,12,4310.72,2019-08-20,2607,Shipped,Trucks and Buses,S50_1392,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Medium,4155551450,115,97562
+10292,41,121.54,6,4983.14,2019-09-08,2589,Shipped,Trucks and Buses,S50_1392,Land of Toys Inc.,897 Long Airport Avenue,NYC,USA,Yu,Kwai,Medium,2125557818,115,10022
+10305,42,109.96,3,4618.32,2019-10-13,2555,Shipped,Trucks and Buses,S50_1392,Marta's Replicas Co.,39323 Spinnaker Dr.,Cambridge,USA,Hernandez,Marta,Medium,6175558555,115,51247
+10314,28,121.54,12,3403.12,2019-10-22,2547,Shipped,Trucks and Buses,S50_1392,Heintze Collectables,Smagsloget 45,Aaarhus,Denmark,Ibsen,Palle,Medium,86 21 3555,115,8200
+10325,38,136.59,4,5190.42,2019-11-05,2534,Shipped,Trucks and Buses,S50_1392,Baane Mini Imports,Erling Skakkes gate 78,Stavern,Norway,Bergulfsen,Jonas,Medium,07-98 9555,115,4110
+10336,23,136.59,8,3141.57,2019-11-20,2520,Shipped,Trucks and Buses,S50_1392,"La Corne D'abondance, Co.","265, boulevard Charonne",Paris,France,Bertrand,Marie,Medium,(1) 42.34.2555,115,75012
+10350,31,71.4,8,2213.4,2019-12-02,2509,Shipped,Trucks and Buses,S50_1392,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,115,28034
+10359,46,106.45,2,4896.7,2019-12-15,2497,Shipped,Trucks and Buses,S50_1392,Reims Collectables,59 rue de l'Abbaye,Reims,France,Henriot,Paul,Medium,26.47.1555,115,51100
+10371,48,56.55,10,2714.4,2020-01-23,2459,Shipped,Trucks and Buses,S50_1392,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Small,4155551450,115,97562
+10383,29,106.45,13,3087.05,2020-02-22,2430,Shipped,Trucks and Buses,S50_1392,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,115,28034
+10395,46,123.76,4,5692.96,2020-03-17,2407,Shipped,Trucks and Buses,S50_1392,Lyon Souveniers,27 rue du Colonel Pierre Avia,Paris,France,Da Cunha,Daniel,Medium,+33 1 46 62 7555,115,75508
+10412,26,133.11,3,3460.86,2020-05-03,2361,Shipped,Trucks and Buses,S50_1392,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,115,28034
+10425,18,105.33,2,1895.94,2020-05-31,2334,In Process,Trucks and Buses,S50_1392,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Small,40.67.8555,115,44000
+10104,32,53.31,2,1705.92,2018-01-31,3186,Shipped,Trains,S50_1514,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,58,28034
+10117,21,49.21,11,1033.41,2018-04-16,3112,Shipped,Trains,S50_1514,"Dragon Souveniers, Ltd.","Bronz Sok., Bronz Apt. 3/6 Tesvikiye",Singapore,Singapore,Natividad,Eric,Small,+65 221 7555,58,79903
+10127,46,69.12,4,3179.52,2018-06-03,3065,Shipped,Trains,S50_1514,Muscle Machine Inc,4092 Furth Circle,NYC,USA,Young,Jeff,Medium,2125557413,58,10022
+10142,42,49.79,14,2091.18,2018-08-08,3000,Shipped,Trains,S50_1514,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Small,4155551450,58,97562
+10153,31,57.41,13,1779.71,2018-09-28,2950,Shipped,Trains,S50_1514,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,58,28034
+10165,38,66.78,5,2537.64,2018-10-22,2927,Shipped,Trains,S50_1514,"Dragon Souveniers, Ltd.","Bronz Sok., Bronz Apt. 3/6 Tesvikiye",Singapore,Singapore,Natividad,Eric,Small,+65 221 7555,58,79903
+10176,38,64.44,4,2448.72,2018-11-06,2913,Shipped,Trains,S50_1514,L'ordine Souveniers,Strada Provinciale 124,Reggio Emilia,Italy,Moroni,Maurizio,Small,0522-556555,58,42100
+10185,20,48.62,15,972.4,2018-11-14,2906,Shipped,Trains,S50_1514,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,USA,Tam,Wing C,Small,5085559555,58,50553
+10196,46,62.09,7,2856.14,2018-11-26,2895,Shipped,Trains,S50_1514,Super Scale Inc.,567 North Pendale Street,New Haven,USA,Murphy,Leslie,Small,2035559545,58,97823
+10208,30,65.61,15,1968.3,2019-01-02,2859,Shipped,Trains,S50_1514,"Saveley & Henriot, Co.","2, rue du Commerce",Lyon,France,Saveley,Mary,Small,78.32.5555,58,69004
+10220,30,68.54,4,2056.2,2019-02-12,2819,Shipped,Trains,S50_1514,"Clover Collections, Co.",25 Maiden Lane,Dublin,Ireland,Cassidy,Dean,Small,+353 1862 1555,58,2
+10230,43,52.14,2,2242.02,2019-03-15,2789,Shipped,Trains,S50_1514,"Blauer See Auto, Co.",Lyonerstr. 34,Frankfurt,Germany,Keitel,Roland,Small,+49 69 66 90 2555,58,60528
+10247,49,63.85,4,3128.65,2019-05-05,2739,Shipped,Trains,S50_1514,Suominen Souveniers,"Software Engineering Center, SEC Oy",Espoo,Finland,Suominen,Kalle,Medium,+358 9 8045 555,58,FIN-02271
+10272,43,56.82,4,2443.26,2019-07-20,2664,Shipped,Trains,S50_1514,Diecast Classics Inc.,7586 Pompton St.,Allentown,USA,Yu,Kyung,Small,2155551555,58,70267
+10282,37,66.78,7,2470.86,2019-08-20,2634,Shipped,Trains,S50_1514,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Small,4155551450,58,97562
+10292,35,55.07,1,1927.45,2019-09-08,2616,Shipped,Trains,S50_1514,Land of Toys Inc.,897 Long Airport Avenue,NYC,USA,Yu,Kwai,Small,2125557818,58,10022
+10306,34,60.34,15,2051.56,2019-10-14,2581,Shipped,Trains,S50_1514,"AV Stores, Co.",Fauntleroy Circus,Manchester,UK,Ashworth,Victoria,Small,(171) 555-1555,58,EC2 5NT
+10314,38,61.51,7,2337.38,2019-10-22,2574,Shipped,Trains,S50_1514,Heintze Collectables,Smagsloget 45,Aaarhus,Denmark,Ibsen,Palle,Small,86 21 3555,58,8200
+10325,44,134.84,7,5932.96,2019-11-05,2561,Shipped,Trains,S50_1514,Baane Mini Imports,Erling Skakkes gate 78,Stavern,Norway,Bergulfsen,Jonas,Medium,07-98 9555,58,4110
+10337,21,109.37,6,2296.77,2019-11-21,2546,Shipped,Trains,S50_1514,Classic Legends Inc.,5905 Pompton St.,NYC,USA,Hernandez,Maria,Small,2125558493,58,10022
+10350,44,147.52,17,6490.88,2019-12-02,2536,Shipped,Trains,S50_1514,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,58,28034
+10359,25,64.93,4,1623.25,2019-12-15,2524,Shipped,Trains,S50_1514,Reims Collectables,59 rue de l'Abbaye,Reims,France,Henriot,Paul,Small,26.47.1555,58,51100
+10372,24,58.58,9,1405.92,2020-01-26,2483,Shipped,Trains,S50_1514,"Tokyo Collectables, Ltd",2-2-8 Roppongi,Minato-ku,Japan,Shimamura,Akiko,Small,+81 3 3584 0555,58,106-0032
+10383,38,60.06,10,2282.28,2020-02-22,2457,Shipped,Trains,S50_1514,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,58,28034
+10395,45,199.49,3,8977.05,2020-03-17,2434,Shipped,Trains,S50_1514,Lyon Souveniers,27 rue du Colonel Pierre Avia,Paris,France,Da Cunha,Daniel,Large,+33 1 46 62 7555,58,75508
+10413,51,63.85,4,3256.35,2020-05-05,2386,Shipped,Trains,S50_1514,Gift Depot Inc.,25593 South Bay Ln.,Bridgewater,USA,King,Julie,Medium,2035552570,58,97562
+10108,34,82.99,14,2821.66,2018-03-03,3181,Shipped,Motorcycles,S50_4713,Cruz & Sons Co.,15 McCallum Street - NatWest Center #13-03,Makati City,Philippines,Cruz,Arnold,Small,+63 2 555 3587,81,1227 MM
+10121,44,74.85,1,3293.4,2018-05-07,3117,Shipped,Motorcycles,S50_4713,Reims Collectables,59 rue de l'Abbaye,Reims,France,Henriot,Paul,Medium,26.47.1555,81,51100
+10135,44,96.0,15,4224.0,2018-07-02,3062,Shipped,Motorcycles,S50_4713,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Medium,4155551450,81,97562
+10145,38,81.36,2,3091.68,2018-08-25,3009,Shipped,Motorcycles,S50_4713,Toys4GrownUps.com,78934 Hillside Dr.,Pasadena,USA,Young,Julie,Medium,6265557265,81,90003
+10169,48,80.55,10,3866.4,2018-11-04,2939,Shipped,Motorcycles,S50_4713,"Anna's Decorations, Ltd",201 Miller Street,North Sydney,Australia,O'Hara,Anna,Medium,02 9936 8555,81,2060
+10180,21,93.56,5,1964.76,2018-11-11,2933,Shipped,Motorcycles,S50_4713,Daedalus Designs Imports,"184, chausse de Tournai",Lille,France,Rance,Martine,Small,20.16.1555,81,59000
+10190,40,66.72,2,2668.8,2018-11-19,2926,Shipped,Motorcycles,S50_4713,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,81,28034
+10211,40,80.55,10,3222.0,2019-01-15,2870,Shipped,Motorcycles,S50_4713,Auto Canal Petit,"25, rue Lauriston",Paris,France,Perrier,Dominique,Medium,(1) 47.55.6555,81,75016
+10224,50,77.29,3,3864.5,2019-02-21,2834,Shipped,Motorcycles,S50_4713,Daedalus Designs Imports,"184, chausse de Tournai",Lille,France,Rance,Martine,Medium,20.16.1555,81,59000
+10237,20,68.34,3,1366.8,2019-04-05,2792,Shipped,Motorcycles,S50_4713,Vitachrome Inc.,2678 Kingston Rd.,NYC,USA,Frick,Michael,Small,2125551500,81,10022
+10252,48,72.41,7,3475.68,2019-05-26,2742,Shipped,Motorcycles,S50_4713,Auto Canal Petit,"25, rue Lauriston",Paris,France,Perrier,Dominique,Medium,(1) 47.55.6555,81,75016
+10264,47,89.5,5,4206.5,2019-06-30,2708,Shipped,Motorcycles,S50_4713,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,USA,Yoshido,Juri,Medium,6175559555,81,51003
+10276,21,70.78,11,1486.38,2019-08-02,2676,Shipped,Motorcycles,S50_4713,Online Mini Collectables,7635 Spinnaker Dr.,Brickhaven,USA,Barajas,Miguel,Small,6175557555,81,58339
+10285,39,78.92,2,3077.88,2019-08-27,2652,Shipped,Motorcycles,S50_4713,Marta's Replicas Co.,39323 Spinnaker Dr.,Cambridge,USA,Hernandez,Marta,Medium,6175558555,81,51247
+10299,44,80.55,5,3544.2,2019-09-30,2619,Shipped,Motorcycles,S50_4713,"Toys of Finland, Co.",Keskuskatu 45,Helsinki,Finland,Karttunen,Matti,Medium,90-224 8555,81,21240
+10309,28,88.68,1,2483.04,2019-10-15,2605,Shipped,Motorcycles,S50_4713,Baane Mini Imports,Erling Skakkes gate 78,Stavern,Norway,Bergulfsen,Jonas,Small,07-98 9555,81,4110
+10319,45,77.29,6,3478.05,2019-11-03,2587,Shipped,Motorcycles,S50_4713,Microscale Inc.,5290 North Pendale Street,NYC,USA,Kuo,Kee,Medium,2125551957,81,10022
+10331,20,182.89,5,3657.8,2019-11-17,2574,Shipped,Motorcycles,S50_4713,Motor Mint Distributors Inc.,11328 Douglas Av.,Philadelphia,USA,Hernandez,Rosa,Medium,2155559857,81,71270
+10341,38,123.22,3,4682.36,2019-11-24,2568,Shipped,Motorcycles,S50_4713,Salzburg Collectables,Geislweg 14,Salzburg,Austria,Pipps,Georg,Medium,6562-9555,81,5020
+10356,26,151.45,4,3937.7,2019-12-09,2554,Shipped,Motorcycles,S50_4713,Lyon Souveniers,27 rue du Colonel Pierre Avia,Paris,France,Da Cunha,Daniel,Medium,+33 1 46 62 7555,81,75508
+10365,44,113.28,2,4984.32,2020-01-07,2526,Shipped,Motorcycles,S50_4713,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,USA,Tam,Wing C,Medium,5085559555,81,50553
+10375,49,110.34,8,5406.66,2020-02-03,2500,Shipped,Motorcycles,S50_4713,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Medium,40.67.8555,81,44000
+10390,22,158.69,13,3491.18,2020-03-04,2471,Shipped,Motorcycles,S50_4713,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Medium,4155551450,81,97562
+10403,31,68.34,3,2118.54,2020-04-08,2437,Shipped,Motorcycles,S50_4713,"UK Collectables, Ltd.",Berkeley Gardens 12  Brewery,Liverpool,UK,Devon,Elizabeth,Small,(171) 555-2282,81,WX1 6LT
+10105,41,70.67,5,2897.47,2018-02-11,3225,Shipped,Ships,S700_1138,Danish Wholesale Imports,Vinb'ltet 34,Kobenhavn,Denmark,Petersen,Jytte,Small,31 12 3555,66,1734
+10119,25,76.67,14,1916.75,2018-04-28,3150,Shipped,Ships,S700_1138,Salzburg Collectables,Geislweg 14,Salzburg,Austria,Pipps,Georg,Small,6562-9555,66,5020
+10129,31,60.0,5,1860.0,2018-06-12,3106,Shipped,Ships,S700_1138,"Stylish Desk Decors, Co.",35 King George,London,UK,Brown,Ann,Small,(171) 555-0297,66,WX3 6FW
+10142,41,64.0,2,2624.0,2018-08-08,3050,Shipped,Ships,S700_1138,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Small,4155551450,66,97562
+10153,43,64.67,1,2780.81,2018-09-28,3000,Shipped,Ships,S700_1138,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,66,28034
+10167,43,75.34,12,3239.62,2018-10-23,2976,Cancelled,Ships,S700_1138,Scandinavian Gift Ideas,?kergatan 24,Boras,Sweden,Larsson,Maria,Medium,0695-34 6555,66,S-844 67
+10177,24,76.0,3,1824.0,2018-11-07,2962,Shipped,Ships,S700_1138,CAF Imports,"Merchants House, 27-30 Merchant's Quay",Madrid,Spain,Fernandez,Jesus,Small,+34 913 728 555,66,28023
+10185,21,54.0,3,1134.0,2018-11-14,2956,Shipped,Ships,S700_1138,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,USA,Tam,Wing C,Small,5085559555,66,50553
+10197,23,64.67,9,1487.41,2018-11-26,2945,Shipped,Ships,S700_1138,Enaco Distributors,"Rambla de Catalu¤a, 23",Barcelona,Spain,Saavedra,Eduardo,Small,(93) 203 4555,66,8022
+10208,38,74.67,3,2837.46,2019-01-02,2909,Shipped,Ships,S700_1138,"Saveley & Henriot, Co.","2, rue du Commerce",Lyon,France,Saveley,Mary,Small,78.32.5555,66,69004
+10222,31,62.67,15,1942.77,2019-02-19,2862,Shipped,Ships,S700_1138,Collectable Mini Designs Co.,361 Furth Circle,San Diego,USA,Thompson,Valarie,Small,7605558146,66,91217
+10233,36,70.67,3,2544.12,2019-03-29,2825,Shipped,Ships,S700_1138,Tekni Collectables Inc.,7476 Moss Rd.,Newark,USA,Brown,William,Small,2015559350,66,94019
+10248,36,71.34,6,2568.24,2019-05-07,2787,Cancelled,Ships,S700_1138,Land of Toys Inc.,897 Long Airport Avenue,NYC,USA,Yu,Kwai,Small,2125557818,66,10022
+10261,34,62.0,4,2108.0,2019-06-17,2747,Shipped,Ships,S700_1138,Quebec Home Shopping Network,43 rue St. Laurent,Montreal,Canada,Fresnisre,Jean,Small,(514) 555-8054,66,H1J 1C3
+10273,21,65.34,7,1372.14,2019-07-21,2714,Shipped,Ships,S700_1138,Petit Auto,Rue Joseph-Bens 532,Bruxelles,Belgium,Dewey,Catherine,Small,(02) 5554 67,66,B-1180
+10283,45,78.67,9,3540.15,2019-08-20,2685,Shipped,Ships,S700_1138,"Royal Canadian Collectables, Ltd.",23 Tsawassen Blvd.,Tsawassen,Canada,Lincoln,Elizabeth,Medium,(604) 555-4555,66,T2F 8M4
+10295,26,75.34,4,1958.84,2019-09-10,2665,Shipped,Ships,S700_1138,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,USA,Yoshido,Juri,Small,6175559555,66,51003
+10306,50,54.0,3,2700.0,2019-10-14,2632,Shipped,Ships,S700_1138,"AV Stores, Co.",Fauntleroy Circus,Manchester,UK,Ashworth,Victoria,Small,(171) 555-1555,66,EC2 5NT
+10315,41,62.0,2,2542.0,2019-10-29,2618,Shipped,Ships,S700_1138,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Small,40.67.8555,66,44000
+10326,39,60.0,1,2340.0,2019-11-09,2608,Shipped,Ships,S700_1138,"Volvo Model Replicas, Co",Berguvsvgen  8,Lule,Sweden,Berglund,Christina,Small,0921-12 3555,66,S-958 22
+10339,22,128.02,5,2816.44,2019-11-23,2595,Shipped,Ships,S700_1138,"Tokyo Collectables, Ltd",2-2-8 Roppongi,Minato-ku,Japan,Shimamura,Akiko,Small,+81 3 3584 0555,66,106-0032
+10350,46,76.67,11,3526.82,2019-12-02,2587,Shipped,Ships,S700_1138,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,66,28034
+10373,44,105.18,14,4627.92,2020-01-31,2528,Shipped,Ships,S700_1138,"Oulu Toy Supplies, Inc.",Torikatu 38,Oulu,Finland,Koskitalo,Pirkko,Medium,981-443655,66,90110
+10385,25,77.34,1,1933.5,2020-02-28,2501,Shipped,Ships,S700_1138,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Small,4155551450,66,97562
+10396,39,66.67,1,2600.13,2020-03-23,2478,Shipped,Ships,S700_1138,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Small,4155551450,66,97562
+10414,37,71.34,6,2639.58,2020-05-06,2435,On Hold,Ships,S700_1138,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,USA,Yoshido,Juri,Small,6175559555,66,51003
+10106,31,106.87,7,3312.97,2018-02-17,3245,Shipped,Planes,S700_1691,Rovelli Gifts,Via Ludovico il Moro 22,Bergamo,Italy,Rovelli,Giovanni,Medium,035-640555,91,24100
+10120,47,82.21,13,3863.87,2018-04-29,3175,Shipped,Planes,S700_1691,"Australian Collectors, Co.",636 St Kilda Road,Melbourne,Australia,Ferguson,Peter,Medium,03 9520 4555,91,3004
+10133,24,77.64,8,1863.36,2018-06-27,3117,Shipped,Planes,S700_1691,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,91,28034
+10143,36,109.61,2,3945.96,2018-08-10,3074,Shipped,Planes,S700_1691,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,USA,Tam,Wing C,Medium,5085559555,91,50553
+10156,48,103.21,2,4954.08,2018-10-08,3016,Shipped,Planes,S700_1691,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,91,28034
+10168,28,98.65,14,2762.2,2018-10-28,2997,Shipped,Planes,S700_1691,Technics Stores Inc.,9408 Furth Circle,Burlingame,USA,Hirano,Juri,Small,6505556809,91,94217
+10199,48,83.12,2,3989.76,2018-12-01,2964,Shipped,Planes,S700_1691,West Coast Collectables Co.,3675 Furth Circle,Burbank,USA,Thompson,Steve,Medium,3105553722,91,94019
+10210,21,78.55,12,1649.55,2019-01-12,2923,Shipped,Planes,S700_1691,Osaka Souveniers Co.,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Japan,Kentary,Mory,Small,+81 06 6342 5555,91,530-0003
+10223,25,101.39,14,2534.75,2019-02-20,2885,Shipped,Planes,S700_1691,"Australian Collectors, Co.",636 St Kilda Road,Melbourne,Australia,Ferguson,Peter,Small,03 9520 4555,91,3004
+10235,25,103.21,8,2580.25,2019-04-02,2845,Shipped,Planes,S700_1691,"Royal Canadian Collectables, Ltd.",23 Tsawassen Blvd.,Tsawassen,Canada,Lincoln,Elizabeth,Small,(604) 555-4555,91,T2F 8M4
+10250,31,91.34,9,2831.54,2019-05-11,2807,Shipped,Planes,S700_1691,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,USA,Frick,Sue,Small,4085553659,91,94217
+10262,40,84.03,4,3361.2,2019-06-24,2764,Cancelled,Planes,S700_1691,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,91,28034
+10275,32,89.51,14,2864.32,2019-07-23,2736,Shipped,Planes,S700_1691,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Small,40.67.8555,91,44000
+10284,24,83.12,6,1994.88,2019-08-21,2708,Shipped,Planes,S700_1691,"Norway Gifts By Mail, Co.","Drammensveien 126 A, PB 744 Sentrum",Oslo,Norway,Klaeboe,Jan,Small,+47 2212 1555,91,N 0106
+10296,42,102.3,2,4296.6,2019-09-15,2684,Shipped,Planes,S700_1691,"Bavarian Collectables Imports, Co.",Hansastr. 15,Munich,Germany,Donnermeyer,Michael,Medium,+49 89 61 08 9555,91,80686
+10308,21,105.95,12,2224.95,2019-10-15,2655,Shipped,Planes,S700_1691,Mini Classics,3758 North Pendale Street,White Plains,USA,Frick,Steve,Small,9145554562,91,24067
+10316,34,82.21,4,2795.14,2019-11-01,2639,Shipped,Planes,S700_1691,giftsbymail.co.uk,Garden House Crowther Way,Cowes,UK,Bennett,Helen,Small,(198) 555-8888,91,PO31 7PJ
+10328,27,102.3,8,2762.1,2019-11-12,2629,Shipped,Planes,S700_1691,Rovelli Gifts,Via Ludovico il Moro 22,Bergamo,Italy,Rovelli,Giovanni,Small,035-640555,91,24100
+10340,30,88.6,5,2658.0,2019-11-24,2618,Shipped,Planes,S700_1691,Enaco Distributors,"Rambla de Catalu¤a, 23",Barcelona,Spain,Saavedra,Eduardo,Small,(93) 203 4555,91,8022
+10353,39,129.33,9,5043.87,2019-12-04,2609,Shipped,Planes,S700_1691,Gift Ideas Corp.,2440 Pompton St.,Glendale,USA,Lewis,Dan,Medium,2035554407,91,97561
+10361,20,60.54,4,1210.8,2019-12-17,2597,Shipped,Planes,S700_1691,Souveniers And Things Co.,"Monitor Money Building, 815 Pacific Hwy",Chatswood,Australia,Huxley,Adrian,Small,+61 2 9495 8555,91,2067
+10375,37,81.87,6,3029.19,2020-02-03,2550,Shipped,Planes,S700_1691,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Medium,40.67.8555,91,44000
+10388,46,218.84,2,10066.6,2020-03-03,2522,Shipped,Planes,S700_1691,FunGiftIdeas.com,1785 First Street,New Bedford,USA,Benitez,Violeta,Large,5085552555,91,50553
+10398,47,87.69,6,4121.43,2020-03-30,2496,Shipped,Planes,S700_1691,Reims Collectables,59 rue de l'Abbaye,Reims,France,Henriot,Paul,Medium,26.47.1555,91,51100
+10401,11,103.21,8,1135.31,2020-04-03,2493,On Hold,Planes,S700_1691,Tekni Collectables Inc.,7476 Moss Rd.,Newark,USA,Brown,William,Small,2015559350,91,94019
+10416,23,91.34,9,2100.82,2020-05-10,2457,Shipped,Planes,S700_1691,L'ordine Souveniers,Strada Provinciale 124,Reggio Emilia,Italy,Moroni,Maurizio,Small,0522-556555,91,42100
+10105,29,70.15,12,2034.35,2018-02-11,3277,Shipped,Ships,S700_1938,Danish Wholesale Imports,Vinb'ltet 34,Kobenhavn,Denmark,Petersen,Jytte,Small,31 12 3555,86,1734
+10117,38,79.68,6,3027.84,2018-04-16,3214,Shipped,Ships,S700_1938,"Dragon Souveniers, Ltd.","Bronz Sok., Bronz Apt. 3/6 Tesvikiye",Singapore,Singapore,Natividad,Eric,Medium,+65 221 7555,86,79903
+10128,32,97.0,3,3104.0,2018-06-06,3164,Shipped,Ships,S700_1938,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,86,28034
+10142,43,84.01,9,3612.43,2018-08-08,3102,Shipped,Ships,S700_1938,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Medium,4155551450,86,97562
+10153,31,87.48,8,2711.88,2018-09-28,3052,Shipped,Ships,S700_1938,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,86,28034
+10166,29,103.93,3,3013.97,2018-10-21,3030,Shipped,Ships,S700_1938,FunGiftIdeas.com,1785 First Street,New Bedford,USA,Benitez,Violeta,Medium,5085552555,86,50553
+10177,31,88.34,10,2738.54,2018-11-07,3014,Shipped,Ships,S700_1938,CAF Imports,"Merchants House, 27-30 Merchant's Quay",Madrid,Spain,Fernandez,Jesus,Small,+34 913 728 555,86,28023
+10185,30,94.4,10,2832.0,2018-11-14,3008,Shipped,Ships,S700_1938,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,USA,Tam,Wing C,Small,5085559555,86,50553
+10196,50,94.4,2,4720.0,2018-11-26,2997,Shipped,Ships,S700_1938,Super Scale Inc.,567 North Pendale Street,New Haven,USA,Murphy,Leslie,Medium,2035559545,86,97823
+10208,40,80.55,10,3222.0,2019-01-02,2961,Shipped,Ships,S700_1938,"Saveley & Henriot, Co.","2, rue du Commerce",Lyon,France,Saveley,Mary,Medium,78.32.5555,86,69004
+10221,23,97.0,4,2231.0,2019-02-18,2915,Shipped,Ships,S700_1938,Petit Auto,Rue Joseph-Bens 532,Bruxelles,Belgium,Dewey,Catherine,Small,(02) 5554 67,86,B-1180
+10232,26,88.34,7,2296.84,2019-03-20,2886,Shipped,Ships,S700_1938,giftsbymail.co.uk,Garden House Crowther Way,Cowes,UK,Bennett,Helen,Small,(198) 555-8888,86,PO31 7PJ
+10248,40,103.93,13,4157.2,2019-05-07,2839,Cancelled,Ships,S700_1938,Land of Toys Inc.,897 Long Airport Avenue,NYC,USA,Yu,Kwai,Medium,2125557818,86,10022
+10273,21,102.2,14,2146.2,2019-07-21,2765,Shipped,Ships,S700_1938,Petit Auto,Rue Joseph-Bens 532,Bruxelles,Belgium,Dewey,Catherine,Small,(02) 5554 67,86,B-1180
+10282,43,86.61,2,3724.23,2019-08-20,2736,Shipped,Ships,S700_1938,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Medium,4155551450,86,97562
+10293,29,71.89,5,2084.81,2019-09-09,2717,Shipped,Ships,S700_1938,Amica Models & Co.,Via Monte Bianco 34,Torino,Italy,Accorti,Paolo,Small,011-4988555,86,10100
+10306,38,91.81,10,3488.78,2019-10-14,2683,Shipped,Ships,S700_1938,"AV Stores, Co.",Fauntleroy Circus,Manchester,UK,Ashworth,Victoria,Medium,(171) 555-1555,86,EC2 5NT
+10314,23,76.22,2,1753.06,2019-10-22,2676,Shipped,Ships,S700_1938,Heintze Collectables,Smagsloget 45,Aaarhus,Denmark,Ibsen,Palle,Small,86 21 3555,86,8200
+10327,20,173.46,7,3469.2,2019-11-10,2658,Resolved,Ships,S700_1938,Danish Wholesale Imports,Vinb'ltet 34,Kobenhavn,Denmark,Petersen,Jytte,Medium,31 12 3555,86,1734
+10337,36,70.3,9,2530.8,2019-11-21,2648,Shipped,Ships,S700_1938,Classic Legends Inc.,5905 Pompton St.,NYC,USA,Hernandez,Maria,Small,2125558493,86,10022
+10350,28,104.44,4,2924.32,2019-12-02,2638,Shipped,Ships,S700_1938,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,86,28034
+10372,44,102.2,2,4496.8,2020-01-26,2584,Shipped,Ships,S700_1938,"Tokyo Collectables, Ltd",2-2-8 Roppongi,Minato-ku,Japan,Shimamura,Akiko,Medium,+81 3 3584 0555,86,106-0032
+10397,32,80.55,5,2577.6,2020-03-28,2523,Shipped,Ships,S700_1938,Alpha Cognac,1 rue Alsace-Lorraine,Toulouse,France,Roulet,Annette,Small,61.77.6555,86,31000
+10414,34,103.93,13,3533.62,2020-05-06,2485,On Hold,Ships,S700_1938,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,USA,Yoshido,Juri,Medium,6175559555,86,51003
+10106,30,105.91,16,3177.3,2018-02-17,3295,Shipped,Ships,S700_2047,Rovelli Gifts,Via Ludovico il Moro 22,Bergamo,Italy,Rovelli,Giovanni,Medium,035-640555,90,24100
+10119,29,94.14,7,2730.06,2018-04-28,3226,Shipped,Ships,S700_2047,Salzburg Collectables,Geislweg 14,Salzburg,Austria,Pipps,Georg,Small,6562-9555,90,5020
+10131,22,85.99,8,1891.78,2018-06-16,3178,Shipped,Ships,S700_2047,Gift Ideas Corp.,2440 Pompton St.,Glendale,USA,Lewis,Dan,Small,2035554407,90,97561
+10143,26,100.48,11,2612.48,2018-08-10,3124,Shipped,Ships,S700_2047,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,USA,Tam,Wing C,Small,5085559555,90,50553
+10155,32,91.43,9,2925.76,2018-10-06,3068,Shipped,Ships,S700_2047,"Toys of Finland, Co.",Keskuskatu 45,Helsinki,Finland,Karttunen,Matti,Small,90-224 8555,90,21240
+10167,29,101.38,5,2940.02,2018-10-23,3052,Cancelled,Ships,S700_2047,Scandinavian Gift Ideas,?kergatan 24,Boras,Sweden,Larsson,Maria,Small,0695-34 6555,90,S-844 67
+10178,34,96.86,8,3293.24,2018-11-08,3037,Shipped,Ships,S700_2047,Alpha Cognac,1 rue Alsace-Lorraine,Toulouse,France,Roulet,Annette,Medium,61.77.6555,90,31000
+10186,24,99.57,5,2389.68,2018-11-14,3032,Shipped,Ships,S700_2047,"Double Decker Gift Stores, Ltd",120 Hanover Sq.,London,UK,Hardy,Thomas,Small,(171) 555-7555,90,WA1 1DP
+10197,24,90.52,2,2172.48,2018-11-26,3021,Shipped,Ships,S700_2047,Enaco Distributors,"Rambla de Catalu¤a, 23",Barcelona,Spain,Saavedra,Eduardo,Small,(93) 203 4555,90,8022
+10222,26,102.29,8,2659.54,2019-02-19,2937,Shipped,Ships,S700_2047,Collectable Mini Designs Co.,361 Furth Circle,San Diego,USA,Thompson,Valarie,Small,7605558146,90,91217
+10249,40,95.95,4,3838.0,2019-05-08,2860,Shipped,Ships,S700_2047,Cambridge Collectables Co.,4658 Baden Av.,Cambridge,USA,Tseng,Kyung,Medium,6175555555,90,51247
+10262,44,94.14,13,4142.16,2019-06-24,2814,Cancelled,Ships,S700_2047,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,90,28034
+10274,24,90.52,5,2172.48,2019-07-21,2788,Shipped,Ships,S700_2047,Collectables For Less Inc.,7825 Douglas Av.,Brickhaven,USA,Nelson,Allen,Small,6175558555,90,58339
+10283,20,94.14,2,1882.8,2019-08-20,2759,Shipped,Ships,S700_2047,"Royal Canadian Collectables, Ltd.",23 Tsawassen Blvd.,Tsawassen,Canada,Lincoln,Elizabeth,Small,(604) 555-4555,90,T2F 8M4
+10296,34,102.29,11,3477.86,2019-09-15,2734,Shipped,Ships,S700_2047,"Bavarian Collectables Imports, Co.",Hansastr. 15,Munich,Germany,Donnermeyer,Michael,Medium,+49 89 61 08 9555,90,80686
+10307,34,97.76,5,3323.84,2019-10-14,2706,Shipped,Ships,S700_2047,"Classic Gift Ideas, Inc",782 First Street,Philadelphia,USA,Cervantes,Francisca,Medium,2155554695,90,71270
+10316,45,93.24,13,4195.8,2019-11-01,2689,Shipped,Ships,S700_2047,giftsbymail.co.uk,Garden House Crowther Way,Cowes,UK,Bennett,Helen,Medium,(198) 555-8888,90,PO31 7PJ
+10328,41,101.38,9,4156.58,2019-11-12,2679,Shipped,Ships,S700_2047,Rovelli Gifts,Via Ludovico il Moro 22,Bergamo,Italy,Rovelli,Giovanni,Medium,035-640555,90,24100
+10339,55,71.25,15,3918.75,2019-11-23,2669,Shipped,Ships,S700_2047,"Tokyo Collectables, Ltd",2-2-8 Roppongi,Minato-ku,Japan,Shimamura,Akiko,Medium,+81 3 3584 0555,90,106-0032
+10352,23,102.29,3,2352.67,2019-12-03,2660,Shipped,Ships,S700_2047,Auto-Moto Classics Inc.,16780 Pompton St.,Brickhaven,USA,Taylor,Leslie,Small,6175558428,90,58339
+10361,24,45.39,14,1089.36,2019-12-17,2647,Shipped,Ships,S700_2047,Souveniers And Things Co.,"Monitor Money Building, 815 Pacific Hwy",Chatswood,Australia,Huxley,Adrian,Small,+61 2 9495 8555,90,2067
+10373,32,84.41,15,2701.12,2020-01-31,2603,Shipped,Ships,S700_2047,"Oulu Toy Supplies, Inc.",Torikatu 38,Oulu,Finland,Koskitalo,Pirkko,Small,981-443655,90,90110
+10386,29,85.76,13,2487.04,2020-03-01,2574,Resolved,Ships,S700_2047,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,90,28034
+10398,36,108.62,7,3910.32,2020-03-30,2546,Shipped,Ships,S700_2047,Reims Collectables,59 rue de l'Abbaye,Reims,France,Henriot,Paul,Medium,26.47.1555,90,51100
+10400,46,87.8,5,4038.8,2020-04-01,2545,Shipped,Ships,S700_2047,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,USA,Frick,Sue,Medium,4085553659,90,94217
+10415,32,95.95,4,3070.4,2020-05-09,2508,Disputed,Ships,S700_2047,"Australian Collectables, Ltd",7 Allen Street,Glen Waverly,Australia,Connery,Sean,Medium,61-9-3844-6555,90,3150
+10106,34,110.69,9,3763.46,2018-02-17,3321,Shipped,Planes,S700_2466,Rovelli Gifts,Via Ludovico il Moro 22,Bergamo,Italy,Rovelli,Giovanni,Medium,035-640555,99,24100
+10120,24,107.7,15,2584.8,2018-04-29,3251,Shipped,Planes,S700_2466,"Australian Collectors, Co.",636 St Kilda Road,Melbourne,Australia,Ferguson,Peter,Small,03 9520 4555,99,3004
+10131,40,110.69,1,4427.6,2018-06-16,3204,Shipped,Planes,S700_2466,Gift Ideas Corp.,2440 Pompton St.,Glendale,USA,Lewis,Dan,Medium,2035554407,99,97561
+10143,26,82.77,4,2152.02,2018-08-10,3150,Shipped,Planes,S700_2466,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,USA,Tam,Wing C,Small,5085559555,99,50553
+10155,20,117.67,2,2353.4,2018-10-06,3094,Shipped,Planes,S700_2466,"Toys of Finland, Co.",Keskuskatu 45,Helsinki,Finland,Karttunen,Matti,Small,90-224 8555,99,21240
+10168,31,110.69,16,3431.39,2018-10-28,3073,Shipped,Planes,S700_2466,Technics Stores Inc.,9408 Furth Circle,Burlingame,USA,Hirano,Juri,Medium,6505556809,99,94217
+10178,22,87.75,1,1930.5,2018-11-08,3063,Shipped,Planes,S700_2466,Alpha Cognac,1 rue Alsace-Lorraine,Toulouse,France,Roulet,Annette,Small,61.77.6555,99,31000
+10198,42,113.68,1,4774.56,2018-11-27,3045,Shipped,Planes,S700_2466,Cruz & Sons Co.,15 McCallum Street - NatWest Center #13-03,Makati City,Philippines,Cruz,Arnold,Medium,+63 2 555 3587,99,1227 MM
+10210,26,99.72,14,2592.72,2019-01-12,3000,Shipped,Planes,S700_2466,Osaka Souveniers Co.,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Japan,Kentary,Mory,Small,+81 06 6342 5555,99,530-0003
+10222,37,87.75,1,3246.75,2019-02-19,2963,Shipped,Planes,S700_2466,Collectable Mini Designs Co.,361 Furth Circle,San Diego,USA,Thompson,Valarie,Medium,7605558146,99,91217
+10235,38,88.75,10,3372.5,2019-04-02,2922,Shipped,Planes,S700_2466,"Royal Canadian Collectables, Ltd.",23 Tsawassen Blvd.,Tsawassen,Canada,Lincoln,Elizabeth,Medium,(604) 555-4555,99,T2F 8M4
+10250,35,111.69,11,3909.15,2019-05-11,2884,Shipped,Planes,S700_2466,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,USA,Frick,Sue,Medium,4085553659,99,94217
+10262,33,90.75,6,2994.75,2019-06-24,2841,Cancelled,Planes,S700_2466,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,99,28034
+10275,39,114.68,16,4472.52,2019-07-23,2813,Shipped,Planes,S700_2466,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Medium,40.67.8555,99,44000
+10284,45,101.71,8,4576.95,2019-08-21,2785,Shipped,Planes,S700_2466,"Norway Gifts By Mail, Co.","Drammensveien 126 A, PB 744 Sentrum",Oslo,Norway,Klaeboe,Jan,Medium,+47 2212 1555,99,N 0106
+10296,24,101.71,4,2441.04,2019-09-15,2761,Shipped,Planes,S700_2466,"Bavarian Collectables Imports, Co.",Hansastr. 15,Munich,Germany,Donnermeyer,Michael,Small,+49 89 61 08 9555,99,80686
+10308,35,88.75,14,3106.25,2019-10-15,2732,Shipped,Planes,S700_2466,Mini Classics,3758 North Pendale Street,White Plains,USA,Frick,Steve,Medium,9145554562,99,24067
+10316,23,117.67,6,2706.41,2019-11-01,2716,Shipped,Planes,S700_2466,giftsbymail.co.uk,Garden House Crowther Way,Cowes,UK,Bennett,Helen,Small,(198) 555-8888,99,PO31 7PJ
+10328,37,108.69,10,4021.53,2019-11-12,2706,Shipped,Planes,S700_2466,Rovelli Gifts,Via Ludovico il Moro 22,Bergamo,Italy,Rovelli,Giovanni,Medium,035-640555,99,24100
+10340,55,87.75,7,4826.25,2019-11-24,2695,Shipped,Planes,S700_2466,Enaco Distributors,"Rambla de Catalu¤a, 23",Barcelona,Spain,Saavedra,Eduardo,Medium,(93) 203 4555,99,8022
+10352,49,100.72,2,4935.28,2019-12-03,2687,Shipped,Planes,S700_2466,Auto-Moto Classics Inc.,16780 Pompton St.,Brickhaven,USA,Taylor,Leslie,Medium,6175558428,99,58339
+10361,26,105.95,9,2754.7,2019-12-17,2674,Shipped,Planes,S700_2466,Souveniers And Things Co.,"Monitor Money Building, 815 Pacific Hwy",Chatswood,Australia,Huxley,Adrian,Small,+61 2 9495 8555,99,2067
+10375,33,116.87,1,3856.71,2020-02-03,2627,Shipped,Planes,S700_2466,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Medium,40.67.8555,99,44000
+10386,37,83.84,14,3102.08,2020-03-01,2601,Resolved,Planes,S700_2466,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,99,28034
+10398,22,86.76,8,1908.72,2020-03-30,2573,Shipped,Planes,S700_2466,Reims Collectables,59 rue de l'Abbaye,Reims,France,Henriot,Paul,Small,26.47.1555,99,51100
+10401,85,88.75,10,7543.75,2020-04-03,2570,On Hold,Planes,S700_2466,Tekni Collectables Inc.,7476 Moss Rd.,Newark,USA,Brown,William,Large,2015559350,99,94019
+10416,22,111.69,11,2457.18,2020-05-10,2534,Shipped,Planes,S700_2466,L'ordine Souveniers,Strada Provinciale 124,Reggio Emilia,Italy,Moroni,Maurizio,Small,0522-556555,99,42100
+10105,31,65.77,3,2038.87,2018-02-11,3354,Shipped,Ships,S700_2610,Danish Wholesale Imports,Vinb'ltet 34,Kobenhavn,Denmark,Petersen,Jytte,Small,31 12 3555,72,1734
+10119,38,65.77,12,2499.26,2018-04-28,3279,Shipped,Ships,S700_2610,Salzburg Collectables,Geislweg 14,Salzburg,Austria,Pipps,Georg,Small,6562-9555,72,5020
+10129,45,85.29,3,3838.05,2018-06-12,3235,Shipped,Ships,S700_2610,"Stylish Desk Decors, Co.",35 King George,London,UK,Brown,Ann,Medium,(171) 555-0297,72,WX3 6FW
+10143,31,85.29,16,2643.99,2018-08-10,3177,Shipped,Ships,S700_2610,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,USA,Tam,Wing C,Small,5085559555,72,50553
+10154,36,64.33,1,2315.88,2018-10-02,3125,Shipped,Ships,S700_2610,Boards & Toys Co.,4097 Douglas Av.,Glendale,USA,Young,Leslie,Small,3105552373,72,92561
+10167,46,70.11,10,3225.06,2018-10-23,3105,Cancelled,Ships,S700_2610,Scandinavian Gift Ideas,?kergatan 24,Boras,Sweden,Larsson,Maria,Medium,0695-34 6555,72,S-844 67
+10177,32,76.62,1,2451.84,2018-11-07,3091,Shipped,Ships,S700_2610,CAF Imports,"Merchants House, 27-30 Merchant's Quay",Madrid,Spain,Fernandez,Jesus,Small,+34 913 728 555,72,28023
+10185,39,57.82,1,2254.98,2018-11-14,3085,Shipped,Ships,S700_2610,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,USA,Tam,Wing C,Small,5085559555,72,50553
+10197,50,78.79,7,3939.5,2018-11-26,3074,Shipped,Ships,S700_2610,Enaco Distributors,"Rambla de Catalu¤a, 23",Barcelona,Spain,Saavedra,Eduardo,Medium,(93) 203 4555,72,8022
+10208,46,74.45,1,3424.7,2019-01-02,3038,Shipped,Ships,S700_2610,"Saveley & Henriot, Co.","2, rue du Commerce",Lyon,France,Saveley,Mary,Medium,78.32.5555,72,69004
+10222,36,80.95,13,2914.2,2019-02-19,2991,Shipped,Ships,S700_2610,Collectable Mini Designs Co.,361 Furth Circle,San Diego,USA,Thompson,Valarie,Small,7605558146,72,91217
+10233,29,82.4,1,2389.6,2019-03-29,2954,Shipped,Ships,S700_2610,Tekni Collectables Inc.,7476 Moss Rd.,Newark,USA,Brown,William,Small,2015559350,72,94019
+10248,32,75.89,4,2428.48,2019-05-07,2916,Cancelled,Ships,S700_2610,Land of Toys Inc.,897 Long Airport Avenue,NYC,USA,Yu,Kwai,Small,2125557818,72,10022
+10261,44,68.67,2,3021.48,2019-06-17,2876,Shipped,Ships,S700_2610,Quebec Home Shopping Network,43 rue St. Laurent,Montreal,Canada,Fresnisre,Jean,Medium,(514) 555-8054,72,H1J 1C3
+10273,42,62.16,5,2610.72,2019-07-21,2843,Shipped,Ships,S700_2610,Petit Auto,Rue Joseph-Bens 532,Bruxelles,Belgium,Dewey,Catherine,Small,(02) 5554 67,72,B-1180
+10283,47,65.77,7,3091.19,2019-08-20,2814,Shipped,Ships,S700_2610,"Royal Canadian Collectables, Ltd.",23 Tsawassen Blvd.,Tsawassen,Canada,Lincoln,Elizabeth,Medium,(604) 555-4555,72,T2F 8M4
+10295,44,58.55,2,2576.2,2019-09-10,2794,Shipped,Ships,S700_2610,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,USA,Yoshido,Juri,Small,6175559555,72,51003
+10306,43,75.17,1,3232.31,2019-10-14,2761,Shipped,Ships,S700_2610,"AV Stores, Co.",Fauntleroy Circus,Manchester,UK,Ashworth,Victoria,Medium,(171) 555-1555,72,EC2 5NT
+10316,48,74.45,18,3573.6,2019-11-01,2744,Shipped,Ships,S700_2610,giftsbymail.co.uk,Garden House Crowther Way,Cowes,UK,Bennett,Helen,Medium,(198) 555-8888,72,PO31 7PJ
+10327,21,96.31,1,2022.51,2019-11-10,2736,Resolved,Ships,S700_2610,Danish Wholesale Imports,Vinb'ltet 34,Kobenhavn,Denmark,Petersen,Jytte,Small,31 12 3555,72,1734
+10339,50,74.35,9,3717.5,2019-11-23,2724,Shipped,Ships,S700_2610,"Tokyo Collectables, Ltd",2-2-8 Roppongi,Minato-ku,Japan,Shimamura,Akiko,Medium,+81 3 3584 0555,72,106-0032
+10350,29,75.35,12,2185.15,2019-12-02,2716,Shipped,Ships,S700_2610,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,72,28034
+10373,41,70.33,16,2883.53,2020-01-31,2657,Shipped,Ships,S700_2610,"Oulu Toy Supplies, Inc.",Torikatu 38,Oulu,Finland,Koskitalo,Pirkko,Small,981-443655,72,90110
+10386,37,135.61,10,5017.57,2020-03-01,2628,Resolved,Ships,S700_2610,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,72,28034
+10397,22,66.5,4,1463.0,2020-03-28,2602,Shipped,Ships,S700_2610,Alpha Cognac,1 rue Alsace-Lorraine,Toulouse,France,Roulet,Annette,Small,61.77.6555,72,31000
+10414,31,75.89,4,2352.59,2020-05-06,2564,On Hold,Ships,S700_2610,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,USA,Yoshido,Juri,Small,6175559555,72,51003
+10103,42,106.21,6,4460.82,2018-01-29,3393,Shipped,Classic Cars,S700_2824,Baane Mini Imports,Erling Skakkes gate 78,Stavern,Norway,Bergulfsen,Jonas,Medium,07-98 9555,101,4110
+10114,42,113.29,10,4758.18,2018-04-01,3332,Shipped,Classic Cars,S700_2824,"La Corne D'abondance, Co.","265, boulevard Charonne",Paris,France,Bertrand,Marie,Medium,(1) 42.34.2555,101,75012
+10126,45,102.16,6,4597.2,2018-05-28,3276,Shipped,Classic Cars,S700_2824,"Corrida Auto Replicas, Ltd","C/ Araquil, 67",Madrid,Spain,Sommer,Mart¡n,Medium,(91) 555 22 82,101,28023
+10140,36,114.3,6,4114.8,2018-07-24,3220,Shipped,Classic Cars,S700_2824,Technics Stores Inc.,9408 Furth Circle,Burlingame,USA,Hirano,Juri,Medium,6505556809,101,94217
+10150,20,105.2,3,2104.0,2018-09-19,3164,Shipped,Classic Cars,S700_2824,"Dragon Souveniers, Ltd.","Bronz Sok., Bronz Apt. 3/6 Tesvikiye",Singapore,Singapore,Natividad,Eric,Small,+65 221 7555,101,79903
+10164,39,81.93,4,3195.27,2018-10-21,3133,Resolved,Classic Cars,S700_2824,Mini Auto Werke,Kirchgasse 6,Graz,Austria,Mendel,Roland,Medium,7675-3555,101,8010
+10175,42,85.98,11,3611.16,2018-11-06,3118,Shipped,Classic Cars,S700_2824,"Stylish Desk Decors, Co.",35 King George,London,UK,Brown,Ann,Medium,(171) 555-0297,101,WX3 6FW
+10183,23,86.99,3,2000.77,2018-11-13,3112,Shipped,Classic Cars,S700_2824,"Classic Gift Ideas, Inc",782 First Street,Philadelphia,USA,Cervantes,Francisca,Small,2155554695,101,71270
+10194,26,89.01,6,2314.26,2018-11-25,3101,Shipped,Classic Cars,S700_2824,"Saveley & Henriot, Co.","2, rue du Commerce",Lyon,France,Saveley,Mary,Small,78.32.5555,101,69004
+10206,33,117.33,1,3871.89,2018-12-05,3092,Shipped,Classic Cars,S700_2824,Canadian Gift Exchange Network,1900 Oak St.,Vancouver,Canada,Tannamuri,Yoshi,Medium,(604) 555-3392,101,V3F 2K1
+10217,31,88.0,6,2728.0,2019-02-04,3032,Shipped,Classic Cars,S700_2824,Handji Gifts& Co,Village Close - 106 Linden Road Sandown,Singapore,Singapore,Victorino,Wendy,Small,+65 224 1555,101,69045
+10229,50,112.28,11,5614.0,2019-03-11,2998,Shipped,Classic Cars,S700_2824,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Medium,4155551450,101,97562
+10245,44,105.2,4,4628.8,2019-05-04,2945,Shipped,Classic Cars,S700_2824,Super Scale Inc.,567 North Pendale Street,New Haven,USA,Murphy,Leslie,Medium,2035559545,101,97823
+10258,45,80.92,1,3641.4,2019-06-15,2904,Shipped,Classic Cars,S700_2824,"Tokyo Collectables, Ltd",2-2-8 Roppongi,Minato-ku,Japan,Shimamura,Akiko,Medium,+81 3 3584 0555,101,106-0032
+10270,46,88.0,4,4048.0,2019-07-19,2871,Shipped,Classic Cars,S700_2824,Souveniers And Things Co.,"Monitor Money Building, 815 Pacific Hwy",Chatswood,Australia,Huxley,Adrian,Medium,+61 2 9495 8555,101,2067
+10281,27,85.98,11,2321.46,2019-08-19,2841,Shipped,Classic Cars,S700_2824,Diecast Classics Inc.,7586 Pompton St.,Allentown,USA,Yu,Kyung,Small,2155551555,101,70267
+10291,28,116.32,6,3256.96,2019-09-08,2822,Shipped,Classic Cars,S700_2824,Scandinavian Gift Ideas,?kergatan 24,Boras,Sweden,Larsson,Maria,Medium,0695-34 6555,101,S-844 67
+10304,40,105.2,1,4208.0,2019-10-11,2790,Shipped,Classic Cars,S700_2824,Auto Assoc. & Cie.,"67, avenue de l'Europe",Versailles,France,Tonini,Daniel,Medium,30.59.8555,101,78000
+10313,30,99.13,9,2973.9,2019-10-22,2780,Shipped,Classic Cars,S700_2824,Canadian Gift Exchange Network,1900 Oak St.,Vancouver,Canada,Tannamuri,Yoshi,Small,(604) 555-3392,101,V3F 2K1
+10324,34,124.95,5,4248.3,2019-11-05,2767,Shipped,Classic Cars,S700_2824,Vitachrome Inc.,2678 Kingston Rd.,NYC,USA,Frick,Michael,Medium,2125551500,101,10022
+10336,46,207.8,2,9558.8,2019-11-20,2753,Shipped,Classic Cars,S700_2824,"La Corne D'abondance, Co.","265, boulevard Charonne",Paris,France,Bertrand,Marie,Large,(1) 42.34.2555,101,75012
+10348,32,82.83,7,2650.56,2019-11-01,2773,Shipped,Classic Cars,S700_2824,"Corrida Auto Replicas, Ltd","C/ Araquil, 67",Madrid,Spain,Sommer,Mart¡n,Small,(91) 555 22 82,101,28023
+10358,27,139.31,3,3761.37,2019-12-10,2735,Shipped,Classic Cars,S700_2824,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,101,28034
+10371,34,126.51,3,4301.34,2020-01-23,2692,Shipped,Classic Cars,S700_2824,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Medium,4155551450,101,97562
+10382,34,54.84,9,1864.56,2020-02-17,2668,Shipped,Classic Cars,S700_2824,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Small,4155551450,101,97562
+10411,34,105.2,4,3576.8,2020-05-01,2595,Shipped,Classic Cars,S700_2824,Quebec Home Shopping Network,43 rue St. Laurent,Montreal,Canada,Fresnisre,Jean,Medium,(514) 555-8054,101,H1J 1C3
+10424,46,80.92,1,3722.32,2020-05-31,2566,In Process,Classic Cars,S700_2824,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,101,28034
+10106,32,124.58,1,3986.56,2018-02-17,3401,Shipped,Planes,S700_2834,Rovelli Gifts,Via Ludovico il Moro 22,Bergamo,Italy,Rovelli,Giovanni,Medium,035-640555,118,24100
+10120,24,142.38,7,3417.12,2018-04-29,3331,Shipped,Planes,S700_2834,"Australian Collectors, Co.",636 St Kilda Road,Melbourne,Australia,Ferguson,Peter,Medium,03 9520 4555,118,3004
+10133,27,99.67,2,2691.09,2018-06-27,3273,Shipped,Planes,S700_2834,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,118,28034
+10145,20,137.63,13,2752.6,2018-08-25,3215,Shipped,Planes,S700_2834,Toys4GrownUps.com,78934 Hillside Dr.,Pasadena,USA,Young,Julie,Small,6265557265,118,90003
+10168,36,125.77,8,4527.72,2018-10-28,3152,Shipped,Planes,S700_2834,Technics Stores Inc.,9408 Furth Circle,Burlingame,USA,Hirano,Juri,Medium,6505556809,118,94217
+10188,29,136.45,8,3957.05,2018-11-18,3132,Shipped,Planes,S700_2834,Herkku Gifts,"Drammen 121, PR 744 Sentrum",Bergen,Norway,Oeztan,Veysel,Medium,+47 2267 3215,118,N 5804
+10210,25,112.72,6,2818.0,2019-01-12,3078,Shipped,Planes,S700_2834,Osaka Souveniers Co.,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Japan,Kentary,Mory,Small,+81 06 6342 5555,118,530-0003
+10223,29,110.34,8,3199.86,2019-02-20,3040,Shipped,Planes,S700_2834,"Australian Collectors, Co.",636 St Kilda Road,Melbourne,Australia,Ferguson,Peter,Medium,03 9520 4555,118,3004
+10235,25,96.11,2,2402.75,2019-04-02,3000,Shipped,Planes,S700_2834,"Royal Canadian Collectables, Ltd.",23 Tsawassen Blvd.,Tsawassen,Canada,Lincoln,Elizabeth,Small,(604) 555-4555,118,T2F 8M4
+10250,44,137.63,3,6055.72,2019-05-11,2962,Shipped,Planes,S700_2834,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,USA,Frick,Sue,Medium,4085553659,118,94217
+10263,47,116.28,9,5465.16,2019-06-28,2915,Shipped,Planes,S700_2834,Gift Depot Inc.,25593 South Bay Ln.,Bridgewater,USA,King,Julie,Medium,2035552570,118,97562
+10275,48,132.89,8,6378.72,2019-07-23,2891,Shipped,Planes,S700_2834,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Medium,40.67.8555,118,44000
+10285,45,119.84,13,5392.8,2019-08-27,2857,Shipped,Planes,S700_2834,Marta's Replicas Co.,39323 Spinnaker Dr.,Cambridge,USA,Hernandez,Marta,Medium,6175558555,118,51247
+10297,35,113.9,3,3986.5,2019-09-16,2838,Shipped,Planes,S700_2834,"Clover Collections, Co.",25 Maiden Lane,Dublin,Ireland,Cassidy,Dean,Medium,+353 1862 1555,118,2
+10308,31,129.33,6,4009.23,2019-10-15,2810,Shipped,Planes,S700_2834,Mini Classics,3758 North Pendale Street,White Plains,USA,Frick,Steve,Medium,9145554562,118,24067
+10318,50,142.38,8,7119.0,2019-11-02,2793,Shipped,Planes,S700_2834,Diecast Classics Inc.,7586 Pompton St.,Allentown,USA,Yu,Kyung,Large,2155551555,118,70267
+10328,33,123.4,11,4072.2,2019-11-12,2784,Shipped,Planes,S700_2834,Rovelli Gifts,Via Ludovico il Moro 22,Bergamo,Italy,Rovelli,Giovanni,Medium,035-640555,118,24100
+10340,29,141.19,6,4094.51,2019-11-24,2773,Shipped,Planes,S700_2834,Enaco Distributors,"Rambla de Catalu¤a, 23",Barcelona,Spain,Saavedra,Eduardo,Medium,(93) 203 4555,118,8022
+10353,48,68.8,4,3302.4,2019-12-04,2764,Shipped,Planes,S700_2834,Gift Ideas Corp.,2440 Pompton St.,Glendale,USA,Lewis,Dan,Medium,2035554407,118,97561
+10361,44,72.42,5,3186.48,2019-12-17,2752,Shipped,Planes,S700_2834,Souveniers And Things Co.,"Monitor Money Building, 815 Pacific Hwy",Chatswood,Australia,Huxley,Adrian,Medium,+61 2 9495 8555,118,2067
+10375,25,66.73,10,1668.25,2020-02-03,2705,Shipped,Planes,S700_2834,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Small,40.67.8555,118,44000
+10388,50,143.09,3,7154.5,2020-03-03,2677,Shipped,Planes,S700_2834,FunGiftIdeas.com,1785 First Street,New Bedford,USA,Benitez,Violeta,Large,5085552555,118,50553
+10398,23,122.21,9,2810.83,2020-03-30,2651,Shipped,Planes,S700_2834,Reims Collectables,59 rue de l'Abbaye,Reims,France,Henriot,Paul,Small,26.47.1555,118,51100
+10401,21,96.11,2,2018.31,2020-04-03,2648,On Hold,Planes,S700_2834,Tekni Collectables Inc.,7476 Moss Rd.,Newark,USA,Brown,William,Small,2015559350,118,94019
+10416,41,137.63,3,5642.83,2020-05-10,2612,Shipped,Planes,S700_2834,L'ordine Souveniers,Strada Provinciale 124,Reggio Emilia,Italy,Moroni,Maurizio,Medium,0522-556555,118,42100
+10106,44,74.4,8,3273.6,2018-02-17,3426,Shipped,Planes,S700_3167,Rovelli Gifts,Via Ludovico il Moro 22,Bergamo,Italy,Rovelli,Giovanni,Medium,035-640555,80,24100
+10120,43,76.0,14,3268.0,2018-04-29,3356,Shipped,Planes,S700_3167,"Australian Collectors, Co.",636 St Kilda Road,Melbourne,Australia,Ferguson,Peter,Medium,03 9520 4555,80,3004
+10143,28,96.0,3,2688.0,2018-08-10,3254,Shipped,Planes,S700_3167,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,USA,Tam,Wing C,Small,5085559555,80,50553
+10155,43,86.4,1,3715.2,2018-10-06,3198,Shipped,Planes,S700_3167,"Toys of Finland, Co.",Keskuskatu 45,Helsinki,Finland,Karttunen,Matti,Medium,90-224 8555,80,21240
+10168,48,96.0,15,4608.0,2018-10-28,3177,Shipped,Planes,S700_3167,Technics Stores Inc.,9408 Furth Circle,Burlingame,USA,Hirano,Juri,Medium,6505556809,80,94217
+10199,38,82.4,3,3131.2,2018-12-01,3144,Shipped,Planes,S700_3167,West Coast Collectables Co.,3675 Furth Circle,Burbank,USA,Thompson,Steve,Medium,3105553722,80,94019
+10210,31,86.4,13,2678.4,2019-01-12,3103,Shipped,Planes,S700_3167,Osaka Souveniers Co.,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Japan,Kentary,Mory,Small,+81 06 6342 5555,80,530-0003
+10223,26,67.2,15,1747.2,2019-02-20,3065,Shipped,Planes,S700_3167,"Australian Collectors, Co.",636 St Kilda Road,Melbourne,Australia,Ferguson,Peter,Small,03 9520 4555,80,3004
+10235,32,92.0,9,2944.0,2019-04-02,3025,Shipped,Planes,S700_3167,"Royal Canadian Collectables, Ltd.",23 Tsawassen Blvd.,Tsawassen,Canada,Lincoln,Elizabeth,Small,(604) 555-4555,80,T2F 8M4
+10250,44,67.2,10,2956.8,2019-05-11,2987,Shipped,Planes,S700_3167,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,USA,Frick,Sue,Small,4085553659,80,94217
+10262,27,76.0,5,2052.0,2019-06-24,2944,Cancelled,Planes,S700_3167,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,80,28034
+10275,43,73.6,15,3164.8,2019-07-23,2916,Shipped,Planes,S700_3167,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Medium,40.67.8555,80,44000
+10284,25,69.6,7,1740.0,2019-08-21,2888,Shipped,Planes,S700_3167,"Norway Gifts By Mail, Co.","Drammensveien 126 A, PB 744 Sentrum",Oslo,Norway,Klaeboe,Jan,Small,+47 2212 1555,80,N 0106
+10296,22,80.8,3,1777.6,2019-09-15,2864,Shipped,Planes,S700_3167,"Bavarian Collectables Imports, Co.",Hansastr. 15,Munich,Germany,Donnermeyer,Michael,Small,+49 89 61 08 9555,80,80686
+10308,21,87.2,13,1831.2,2019-10-15,2835,Shipped,Planes,S700_3167,Mini Classics,3758 North Pendale Street,White Plains,USA,Frick,Steve,Small,9145554562,80,24067
+10316,48,75.2,5,3609.6,2019-11-01,2819,Shipped,Planes,S700_3167,giftsbymail.co.uk,Garden House Crowther Way,Cowes,UK,Bennett,Helen,Medium,(198) 555-8888,80,PO31 7PJ
+10328,33,64.0,13,2112.0,2019-11-12,2809,Shipped,Planes,S700_3167,Rovelli Gifts,Via Ludovico il Moro 22,Bergamo,Italy,Rovelli,Giovanni,Small,035-640555,80,24100
+10341,34,107.18,5,3644.12,2019-11-24,2798,Shipped,Planes,S700_3167,Salzburg Collectables,Geislweg 14,Salzburg,Austria,Pipps,Georg,Medium,6562-9555,80,5020
+10353,43,81.95,6,3523.85,2019-12-04,2789,Shipped,Planes,S700_3167,Gift Ideas Corp.,2440 Pompton St.,Glendale,USA,Lewis,Dan,Medium,2035554407,80,97561
+10361,44,113.68,10,5001.92,2019-12-17,2777,Shipped,Planes,S700_3167,Souveniers And Things Co.,"Monitor Money Building, 815 Pacific Hwy",Chatswood,Australia,Huxley,Adrian,Medium,+61 2 9495 8555,80,2067
+10375,44,118.38,11,5208.72,2020-02-03,2730,Shipped,Planes,S700_3167,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Medium,40.67.8555,80,44000
+10386,32,94.34,17,3018.88,2020-03-01,2704,Resolved,Planes,S700_3167,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,80,28034
+10398,29,65.6,10,1902.4,2020-03-30,2676,Shipped,Planes,S700_3167,Reims Collectables,59 rue de l'Abbaye,Reims,France,Henriot,Paul,Small,26.47.1555,80,51100
+10401,77,92.0,9,7084.0,2020-04-03,2673,On Hold,Planes,S700_3167,Tekni Collectables Inc.,7476 Moss Rd.,Newark,USA,Brown,William,Large,2015559350,80,94019
+10416,39,67.2,10,2620.8,2020-05-10,2637,Shipped,Planes,S700_3167,L'ordine Souveniers,Strada Provinciale 124,Reggio Emilia,Italy,Moroni,Maurizio,Small,0522-556555,80,42100
+10105,39,81.14,6,3164.46,2018-02-11,3457,Shipped,Ships,S700_3505,Danish Wholesale Imports,Vinb'ltet 34,Kobenhavn,Denmark,Petersen,Jytte,Medium,31 12 3555,100,1734
+10118,36,117.2,1,4219.2,2018-04-21,3389,Shipped,Ships,S700_3505,Enaco Distributors,"Rambla de Catalu¤a, 23",Barcelona,Spain,Saavedra,Eduardo,Medium,(93) 203 4555,100,8022
+10129,42,91.15,6,3828.3,2018-06-12,3338,Shipped,Ships,S700_3505,"Stylish Desk Decors, Co.",35 King George,London,UK,Brown,Ann,Medium,(171) 555-0297,100,WX3 6FW
+10142,21,111.19,3,2334.99,2018-08-08,3282,Shipped,Ships,S700_3505,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Small,4155551450,100,97562
+10153,50,88.15,2,4407.5,2018-09-28,3232,Shipped,Ships,S700_3505,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,100,28034
+10167,24,117.2,13,2812.8,2018-10-23,3208,Cancelled,Ships,S700_3505,Scandinavian Gift Ideas,?kergatan 24,Boras,Sweden,Larsson,Maria,Small,0695-34 6555,100,S-844 67
+10177,44,92.16,4,4055.04,2018-11-07,3194,Shipped,Ships,S700_3505,CAF Imports,"Merchants House, 27-30 Merchant's Quay",Madrid,Spain,Fernandez,Jesus,Medium,+34 913 728 555,100,28023
+10185,37,105.18,4,3891.66,2018-11-14,3188,Shipped,Ships,S700_3505,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,USA,Tam,Wing C,Medium,5085559555,100,50553
+10197,27,92.16,10,2488.32,2018-11-26,3177,Shipped,Ships,S700_3505,Enaco Distributors,"Rambla de Catalu¤a, 23",Barcelona,Spain,Saavedra,Eduardo,Small,(93) 203 4555,100,8022
+10208,37,120.2,4,4447.4,2019-01-02,3141,Shipped,Ships,S700_3505,"Saveley & Henriot, Co.","2, rue du Commerce",Lyon,France,Saveley,Mary,Medium,78.32.5555,100,69004
+10222,38,110.19,16,4187.22,2019-02-19,3094,Shipped,Ships,S700_3505,Collectable Mini Designs Co.,361 Furth Circle,San Diego,USA,Thompson,Valarie,Medium,7605558146,100,91217
+10232,48,96.16,1,4615.68,2019-03-20,3066,Shipped,Ships,S700_3505,giftsbymail.co.uk,Garden House Crowther Way,Cowes,UK,Bennett,Helen,Medium,(198) 555-8888,100,PO31 7PJ
+10248,30,108.18,7,3245.4,2019-05-07,3019,Cancelled,Ships,S700_3505,Land of Toys Inc.,897 Long Airport Avenue,NYC,USA,Yu,Kwai,Medium,2125557818,100,10022
+10261,25,88.15,5,2203.75,2019-06-17,2979,Shipped,Ships,S700_3505,Quebec Home Shopping Network,43 rue St. Laurent,Montreal,Canada,Fresnisre,Jean,Small,(514) 555-8054,100,H1J 1C3
+10273,40,86.15,8,3446.0,2019-07-21,2946,Shipped,Ships,S700_3505,Petit Auto,Rue Joseph-Bens 532,Bruxelles,Belgium,Dewey,Catherine,Medium,(02) 5554 67,100,B-1180
+10283,22,88.15,10,1939.3,2019-08-20,2917,Shipped,Ships,S700_3505,"Royal Canadian Collectables, Ltd.",23 Tsawassen Blvd.,Tsawassen,Canada,Lincoln,Elizabeth,Small,(604) 555-4555,100,T2F 8M4
+10295,34,102.17,5,3473.78,2019-09-10,2897,Shipped,Ships,S700_3505,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,USA,Yoshido,Juri,Medium,6175559555,100,51003
+10306,32,90.15,4,2884.8,2019-10-14,2864,Shipped,Ships,S700_3505,"AV Stores, Co.",Fauntleroy Circus,Manchester,UK,Ashworth,Victoria,Small,(171) 555-1555,100,EC2 5NT
+10315,31,86.15,3,2670.65,2019-10-29,2850,Shipped,Ships,S700_3505,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Small,40.67.8555,100,44000
+10327,43,80.0,2,3440.0,2019-11-10,2839,Resolved,Ships,S700_3505,Danish Wholesale Imports,Vinb'ltet 34,Kobenhavn,Denmark,Petersen,Jytte,Medium,31 12 3555,100,1734
+10337,31,89.38,1,2770.78,2019-11-21,2829,Shipped,Ships,S700_3505,Classic Legends Inc.,5905 Pompton St.,NYC,USA,Hernandez,Maria,Small,2125558493,100,10022
+10350,31,77.34,13,2397.54,2019-12-02,2819,Shipped,Ships,S700_3505,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,100,28034
+10373,34,96.34,2,3275.56,2020-01-31,2760,Shipped,Ships,S700_3505,"Oulu Toy Supplies, Inc.",Torikatu 38,Oulu,Finland,Koskitalo,Pirkko,Medium,981-443655,100,90110
+10386,45,92.08,2,4143.6,2020-03-01,2731,Resolved,Ships,S700_3505,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,100,28034
+10397,48,108.18,3,5192.64,2020-03-28,2705,Shipped,Ships,S700_3505,Alpha Cognac,1 rue Alsace-Lorraine,Toulouse,France,Roulet,Annette,Medium,61.77.6555,100,31000
+10414,28,108.18,7,3029.04,2020-05-06,2667,On Hold,Ships,S700_3505,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,USA,Yoshido,Juri,Medium,6175559555,100,51003
+10105,22,116.19,7,2556.18,2018-02-11,3483,Shipped,Ships,S700_3962,Danish Wholesale Imports,Vinb'ltet 34,Kobenhavn,Denmark,Petersen,Jytte,Small,31 12 3555,99,1734
+10117,45,83.42,1,3753.9,2018-04-16,3420,Shipped,Ships,S700_3962,"Dragon Souveniers, Ltd.","Bronz Sok., Bronz Apt. 3/6 Tesvikiye",Singapore,Singapore,Natividad,Eric,Medium,+65 221 7555,99,79903
+10129,30,85.41,7,2562.3,2018-06-12,3364,Shipped,Ships,S700_3962,"Stylish Desk Decors, Co.",35 King George,London,UK,Brown,Ann,Small,(171) 555-0297,99,WX3 6FW
+10142,38,85.41,4,3245.58,2018-08-08,3308,Shipped,Ships,S700_3962,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Medium,4155551450,99,97562
+10153,20,110.23,3,2204.6,2018-09-28,3258,Shipped,Ships,S700_3962,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,99,28034
+10167,28,107.25,14,3003.0,2018-10-23,3234,Cancelled,Ships,S700_3962,Scandinavian Gift Ideas,?kergatan 24,Boras,Sweden,Larsson,Maria,Medium,0695-34 6555,99,S-844 67
+10177,24,105.27,5,2526.48,2018-11-07,3220,Shipped,Ships,S700_3962,CAF Imports,"Merchants House, 27-30 Merchant's Quay",Madrid,Spain,Fernandez,Jesus,Small,+34 913 728 555,99,28023
+10185,22,79.45,5,1747.9,2018-11-14,3214,Shipped,Ships,S700_3962,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,USA,Tam,Wing C,Small,5085559555,99,50553
+10197,35,93.35,11,3267.25,2018-11-26,3203,Shipped,Ships,S700_3962,Enaco Distributors,"Rambla de Catalu¤a, 23",Barcelona,Spain,Saavedra,Eduardo,Medium,(93) 203 4555,99,8022
+10208,33,85.41,5,2818.53,2019-01-02,3167,Shipped,Ships,S700_3962,"Saveley & Henriot, Co.","2, rue du Commerce",Lyon,France,Saveley,Mary,Small,78.32.5555,99,69004
+10222,31,95.34,17,2955.54,2019-02-19,3120,Shipped,Ships,S700_3962,Collectable Mini Designs Co.,361 Furth Circle,San Diego,USA,Thompson,Valarie,Small,7605558146,99,91217
+10232,35,82.43,2,2885.05,2019-03-20,3092,Shipped,Ships,S700_3962,giftsbymail.co.uk,Garden House Crowther Way,Cowes,UK,Bennett,Helen,Small,(198) 555-8888,99,PO31 7PJ
+10248,35,90.37,8,3162.95,2019-05-07,3045,Cancelled,Ships,S700_3962,Land of Toys Inc.,897 Long Airport Avenue,NYC,USA,Yu,Kwai,Medium,2125557818,99,10022
+10261,50,81.43,6,4071.5,2019-06-17,3005,Shipped,Ships,S700_3962,Quebec Home Shopping Network,43 rue St. Laurent,Montreal,Canada,Fresnisre,Jean,Medium,(514) 555-8054,99,H1J 1C3
+10273,26,114.21,9,2969.46,2019-07-21,2972,Shipped,Ships,S700_3962,Petit Auto,Rue Joseph-Bens 532,Bruxelles,Belgium,Dewey,Catherine,Small,(02) 5554 67,99,B-1180
+10283,38,89.38,11,3396.44,2019-08-20,2943,Shipped,Ships,S700_3962,"Royal Canadian Collectables, Ltd.",23 Tsawassen Blvd.,Tsawassen,Canada,Lincoln,Elizabeth,Medium,(604) 555-4555,99,T2F 8M4
+10294,45,104.28,1,4692.6,2019-09-10,2923,Shipped,Ships,S700_3962,Online Mini Collectables,7635 Spinnaker Dr.,Brickhaven,USA,Barajas,Miguel,Medium,6175557555,99,58339
+10306,30,117.19,5,3515.7,2019-10-14,2890,Shipped,Ships,S700_3962,"AV Stores, Co.",Fauntleroy Circus,Manchester,UK,Ashworth,Victoria,Medium,(171) 555-1555,99,EC2 5NT
+10315,37,91.37,4,3380.69,2019-10-29,2876,Shipped,Ships,S700_3962,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Medium,40.67.8555,99,44000
+10327,37,86.61,3,3204.57,2019-11-10,2865,Resolved,Ships,S700_3962,Danish Wholesale Imports,Vinb'ltet 34,Kobenhavn,Denmark,Petersen,Jytte,Medium,31 12 3555,99,1734
+10337,36,71.89,7,2588.04,2019-11-21,2855,Shipped,Ships,S700_3962,Classic Legends Inc.,5905 Pompton St.,NYC,USA,Hernandez,Maria,Small,2125558493,99,10022
+10350,25,114.19,16,2854.75,2019-12-02,2845,Shipped,Ships,S700_3962,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,99,28034
+10373,37,108.8,8,4025.6,2020-01-31,2786,Shipped,Ships,S700_3962,"Oulu Toy Supplies, Inc.",Torikatu 38,Oulu,Finland,Koskitalo,Pirkko,Medium,981-443655,99,90110
+10386,30,95.48,3,2864.4,2020-03-01,2757,Resolved,Ships,S700_3962,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,99,28034
+10397,36,105.27,2,3789.72,2020-03-28,2731,Shipped,Ships,S700_3962,Alpha Cognac,1 rue Alsace-Lorraine,Toulouse,France,Roulet,Annette,Medium,61.77.6555,99,31000
+10414,27,90.37,8,2439.99,2020-05-06,2693,On Hold,Ships,S700_3962,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,USA,Yoshido,Juri,Small,6175559555,99,51003
+10106,48,61.44,10,2949.12,2018-02-17,3503,Shipped,Planes,S700_4002,Rovelli Gifts,Via Ludovico il Moro 22,Bergamo,Italy,Rovelli,Giovanni,Small,035-640555,74,24100
+10119,26,59.22,1,1539.72,2018-04-28,3434,Shipped,Planes,S700_4002,Salzburg Collectables,Geislweg 14,Salzburg,Austria,Pipps,Georg,Small,6562-9555,74,5020
+10131,26,85.13,2,2213.38,2018-06-16,3386,Shipped,Planes,S700_4002,Gift Ideas Corp.,2440 Pompton St.,Glendale,USA,Lewis,Dan,Small,2035554407,74,97561
+10143,34,85.87,5,2919.58,2018-08-10,3332,Shipped,Planes,S700_4002,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,USA,Tam,Wing C,Small,5085559555,74,50553
+10155,44,85.87,3,3778.28,2018-10-06,3276,Shipped,Planes,S700_4002,"Toys of Finland, Co.",Keskuskatu 45,Helsinki,Finland,Karttunen,Matti,Medium,90-224 8555,74,21240
+10168,39,82.91,17,3233.49,2018-10-28,3255,Shipped,Planes,S700_4002,Technics Stores Inc.,9408 Furth Circle,Burlingame,USA,Hirano,Juri,Medium,6505556809,74,94217
+10178,45,76.25,2,3431.25,2018-11-08,3245,Shipped,Planes,S700_4002,Alpha Cognac,1 rue Alsace-Lorraine,Toulouse,France,Roulet,Annette,Medium,61.77.6555,74,31000
+10198,40,63.67,2,2546.8,2018-11-27,3227,Shipped,Planes,S700_4002,Cruz & Sons Co.,15 McCallum Street - NatWest Center #13-03,Makati City,Philippines,Cruz,Arnold,Small,+63 2 555 3587,74,1227 MM
+10210,42,70.33,15,2953.86,2019-01-12,3182,Shipped,Planes,S700_4002,Osaka Souveniers Co.,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Japan,Kentary,Mory,Small,+81 06 6342 5555,74,530-0003
+10222,43,74.03,2,3183.29,2019-02-19,3145,Shipped,Planes,S700_4002,Collectable Mini Designs Co.,361 Furth Circle,San Diego,USA,Thompson,Valarie,Medium,7605558146,74,91217
+10235,34,72.55,11,2466.7,2019-04-02,3104,Shipped,Planes,S700_4002,"Royal Canadian Collectables, Ltd.",23 Tsawassen Blvd.,Tsawassen,Canada,Lincoln,Elizabeth,Small,(604) 555-4555,74,T2F 8M4
+10250,38,62.19,12,2363.22,2019-05-11,3066,Shipped,Planes,S700_4002,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,USA,Frick,Sue,Small,4085553659,74,94217
+10262,35,71.07,7,2487.45,2019-06-24,3023,Cancelled,Planes,S700_4002,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,74,28034
+10275,31,72.55,17,2249.05,2019-07-23,2995,Shipped,Planes,S700_4002,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Small,40.67.8555,74,44000
+10284,32,64.41,9,2061.12,2019-08-21,2967,Shipped,Planes,S700_4002,"Norway Gifts By Mail, Co.","Drammensveien 126 A, PB 744 Sentrum",Oslo,Norway,Klaeboe,Jan,Small,+47 2212 1555,74,N 0106
+10296,47,86.62,5,4071.14,2019-09-15,2943,Shipped,Planes,S700_4002,"Bavarian Collectables Imports, Co.",Hansastr. 15,Munich,Germany,Donnermeyer,Michael,Medium,+49 89 61 08 9555,74,80686
+10308,39,68.11,15,2656.29,2019-10-15,2914,Shipped,Planes,S700_4002,Mini Classics,3758 North Pendale Street,White Plains,USA,Frick,Steve,Small,9145554562,74,24067
+10316,44,62.19,7,2736.36,2019-11-01,2898,Shipped,Planes,S700_4002,giftsbymail.co.uk,Garden House Crowther Way,Cowes,UK,Bennett,Helen,Small,(198) 555-8888,74,PO31 7PJ
+10328,39,85.87,12,3348.93,2019-11-12,2888,Shipped,Planes,S700_4002,Rovelli Gifts,Via Ludovico il Moro 22,Bergamo,Italy,Rovelli,Giovanni,Medium,035-640555,74,24100
+10339,50,57.86,8,2893.0,2019-11-23,2878,Shipped,Planes,S700_4002,"Tokyo Collectables, Ltd",2-2-8 Roppongi,Minato-ku,Japan,Shimamura,Akiko,Small,+81 3 3584 0555,74,106-0032
+10352,22,75.51,1,1661.22,2019-12-03,2869,Shipped,Planes,S700_4002,Auto-Moto Classics Inc.,16780 Pompton St.,Brickhaven,USA,Taylor,Leslie,Small,6175558428,74,58339
+10361,35,122.21,11,4277.35,2019-12-17,2856,Shipped,Planes,S700_4002,Souveniers And Things Co.,"Monitor Money Building, 815 Pacific Hwy",Chatswood,Australia,Huxley,Adrian,Medium,+61 2 9495 8555,74,2067
+10373,45,55.62,17,2502.9,2020-01-31,2812,Shipped,Planes,S700_4002,"Oulu Toy Supplies, Inc.",Torikatu 38,Oulu,Finland,Koskitalo,Pirkko,Small,981-443655,74,90110
+10386,44,86.4,15,3801.6,2020-03-01,2783,Resolved,Planes,S700_4002,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,74,28034
+10398,36,87.36,12,3144.96,2020-03-30,2755,Shipped,Planes,S700_4002,Reims Collectables,59 rue de l'Abbaye,Reims,France,Henriot,Paul,Medium,26.47.1555,74,51100
+10401,28,72.55,11,2031.4,2020-04-03,2752,On Hold,Planes,S700_4002,Tekni Collectables Inc.,7476 Moss Rd.,Newark,USA,Brown,William,Small,2015559350,74,94019
+10416,43,62.19,12,2674.17,2020-05-10,2716,Shipped,Planes,S700_4002,L'ordine Souveniers,Strada Provinciale 124,Reggio Emilia,Italy,Moroni,Maurizio,Small,0522-556555,74,42100
+10106,48,52.64,15,2526.72,2018-02-17,3530,Shipped,Planes,S72_1253,Rovelli Gifts,Via Ludovico il Moro 22,Bergamo,Italy,Rovelli,Giovanni,Small,035-640555,49,24100
+10119,28,48.17,6,1348.76,2018-04-28,3461,Shipped,Planes,S72_1253,Salzburg Collectables,Geislweg 14,Salzburg,Austria,Pipps,Georg,Small,6562-9555,49,5020
+10131,21,41.71,7,875.91,2018-06-16,3413,Shipped,Planes,S72_1253,Gift Ideas Corp.,2440 Pompton St.,Glendale,USA,Lewis,Dan,Small,2035554407,49,97561
+10143,37,50.65,10,1874.05,2018-08-10,3359,Shipped,Planes,S72_1253,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,USA,Tam,Wing C,Small,5085559555,49,50553
+10155,34,49.16,8,1671.44,2018-10-06,3303,Shipped,Planes,S72_1253,"Toys of Finland, Co.",Keskuskatu 45,Helsinki,Finland,Karttunen,Matti,Small,90-224 8555,49,21240
+10167,40,41.71,4,1668.4,2018-10-23,3287,Cancelled,Planes,S72_1253,Scandinavian Gift Ideas,?kergatan 24,Boras,Sweden,Larsson,Maria,Small,0695-34 6555,49,S-844 67
+10178,45,51.15,7,2301.75,2018-11-08,3272,Shipped,Planes,S72_1253,Alpha Cognac,1 rue Alsace-Lorraine,Toulouse,France,Roulet,Annette,Small,61.77.6555,49,31000
+10186,28,52.14,4,1459.92,2018-11-14,3267,Shipped,Planes,S72_1253,"Double Decker Gift Stores, Ltd",120 Hanover Sq.,London,UK,Hardy,Thomas,Small,(171) 555-7555,49,WA1 1DP
+10197,29,41.71,1,1209.59,2018-11-26,3256,Shipped,Planes,S72_1253,Enaco Distributors,"Rambla de Catalu¤a, 23",Barcelona,Spain,Saavedra,Eduardo,Small,(93) 203 4555,49,8022
+10222,31,45.69,7,1416.39,2019-02-19,3172,Shipped,Planes,S72_1253,Collectable Mini Designs Co.,361 Furth Circle,San Diego,USA,Thompson,Valarie,Small,7605558146,49,91217
+10249,32,57.61,3,1843.52,2019-05-08,3095,Shipped,Planes,S72_1253,Cambridge Collectables Co.,4658 Baden Av.,Cambridge,USA,Tseng,Kyung,Small,6175555555,49,51247
+10262,21,57.11,12,1199.31,2019-06-24,3049,Cancelled,Planes,S72_1253,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,49,28034
+10274,32,58.6,4,1875.2,2019-07-21,3023,Shipped,Planes,S72_1253,Collectables For Less Inc.,7825 Douglas Av.,Brickhaven,USA,Nelson,Allen,Small,6175558555,49,58339
+10283,43,57.61,1,2477.23,2019-08-20,2994,Shipped,Planes,S72_1253,"Royal Canadian Collectables, Ltd.",23 Tsawassen Blvd.,Tsawassen,Canada,Lincoln,Elizabeth,Small,(604) 555-4555,49,T2F 8M4
+10296,21,45.19,10,948.99,2019-09-15,2969,Shipped,Planes,S72_1253,"Bavarian Collectables Imports, Co.",Hansastr. 15,Munich,Germany,Donnermeyer,Michael,Small,+49 89 61 08 9555,49,80686
+10307,34,53.63,4,1823.42,2019-10-14,2941,Shipped,Planes,S72_1253,"Classic Gift Ideas, Inc",782 First Street,Philadelphia,USA,Cervantes,Francisca,Small,2155554695,49,71270
+10316,34,43.7,12,1485.8,2019-11-01,2924,Shipped,Planes,S72_1253,giftsbymail.co.uk,Garden House Crowther Way,Cowes,UK,Bennett,Helen,Small,(198) 555-8888,49,PO31 7PJ
+10329,44,86.13,8,3789.72,2019-11-15,2911,Shipped,Planes,S72_1253,Land of Toys Inc.,897 Long Airport Avenue,NYC,USA,Yu,Kwai,Medium,2125557818,49,10022
+10339,27,76.31,6,2060.37,2019-11-23,2904,Shipped,Planes,S72_1253,"Tokyo Collectables, Ltd",2-2-8 Roppongi,Minato-ku,Japan,Shimamura,Akiko,Small,+81 3 3584 0555,49,106-0032
+10352,49,52.64,4,2579.36,2019-12-03,2895,Shipped,Planes,S72_1253,Auto-Moto Classics Inc.,16780 Pompton St.,Brickhaven,USA,Taylor,Leslie,Small,6175558428,49,58339
+10361,23,95.2,12,2189.6,2019-12-17,2882,Shipped,Planes,S72_1253,Souveniers And Things Co.,"Monitor Money Building, 815 Pacific Hwy",Chatswood,Australia,Huxley,Adrian,Small,+61 2 9495 8555,49,2067
+10373,25,64.97,9,1624.25,2020-01-31,2838,Shipped,Planes,S72_1253,"Oulu Toy Supplies, Inc.",Torikatu 38,Oulu,Finland,Koskitalo,Pirkko,Small,981-443655,49,90110
+10386,50,87.15,16,4357.5,2020-03-01,2809,Resolved,Planes,S72_1253,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,49,28034
+10398,34,40.22,1,1367.48,2020-03-30,2781,Shipped,Planes,S72_1253,Reims Collectables,59 rue de l'Abbaye,Reims,France,Henriot,Paul,Small,26.47.1555,49,51100
+10400,20,56.12,4,1122.4,2020-04-01,2780,Shipped,Planes,S72_1253,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,USA,Frick,Sue,Small,4085553659,49,94217
+10415,42,57.61,3,2419.62,2020-05-09,2743,Disputed,Planes,S72_1253,"Australian Collectables, Ltd",7 Allen Street,Glen Waverly,Australia,Connery,Sean,Small,61-9-3844-6555,49,3150
+10105,25,56.78,8,1419.5,2018-02-11,3562,Shipped,Ships,S72_3212,Danish Wholesale Imports,Vinb'ltet 34,Kobenhavn,Denmark,Petersen,Jytte,Small,31 12 3555,54,1734
+10117,50,43.68,2,2184.0,2018-04-16,3499,Shipped,Ships,S72_3212,"Dragon Souveniers, Ltd.","Bronz Sok., Bronz Apt. 3/6 Tesvikiye",Singapore,Singapore,Natividad,Eric,Small,+65 221 7555,54,79903
+10129,32,64.97,8,2079.04,2018-06-12,3443,Shipped,Ships,S72_3212,"Stylish Desk Decors, Co.",35 King George,London,UK,Brown,Ann,Small,(171) 555-0297,54,WX3 6FW
+10142,39,44.23,5,1724.97,2018-08-08,3387,Shipped,Ships,S72_3212,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,USA,Nelson,Valarie,Small,4155551450,54,97562
+10153,50,60.06,4,3003.0,2018-09-28,3337,Shipped,Ships,S72_3212,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,54,28034
+10167,38,48.59,15,1846.42,2018-10-23,3313,Cancelled,Ships,S72_3212,Scandinavian Gift Ideas,?kergatan 24,Boras,Sweden,Larsson,Maria,Small,0695-34 6555,54,S-844 67
+10177,40,50.23,6,2009.2,2018-11-07,3299,Shipped,Ships,S72_3212,CAF Imports,"Merchants House, 27-30 Merchant's Quay",Madrid,Spain,Fernandez,Jesus,Small,+34 913 728 555,54,28023
+10185,28,64.43,6,1804.04,2018-11-14,3293,Shipped,Ships,S72_3212,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,USA,Tam,Wing C,Small,5085559555,54,50553
+10197,42,50.23,12,2109.66,2018-11-26,3282,Shipped,Ships,S72_3212,Enaco Distributors,"Rambla de Catalu¤a, 23",Barcelona,Spain,Saavedra,Eduardo,Small,(93) 203 4555,54,8022
+10208,42,63.88,6,2682.96,2019-01-02,3246,Shipped,Ships,S72_3212,"Saveley & Henriot, Co.","2, rue du Commerce",Lyon,France,Saveley,Mary,Small,78.32.5555,54,69004
+10222,36,63.34,18,2280.24,2019-02-19,3199,Shipped,Ships,S72_3212,Collectable Mini Designs Co.,361 Furth Circle,San Diego,USA,Thompson,Valarie,Small,7605558146,54,91217
+10232,24,49.69,3,1192.56,2019-03-20,3171,Shipped,Ships,S72_3212,giftsbymail.co.uk,Garden House Crowther Way,Cowes,UK,Bennett,Helen,Small,(198) 555-8888,54,PO31 7PJ
+10248,23,65.52,9,1506.96,2019-05-07,3124,Cancelled,Ships,S72_3212,Land of Toys Inc.,897 Long Airport Avenue,NYC,USA,Yu,Kwai,Small,2125557818,54,10022
+10261,29,50.78,7,1472.62,2019-06-17,3084,Shipped,Ships,S72_3212,Quebec Home Shopping Network,43 rue St. Laurent,Montreal,Canada,Fresnisre,Jean,Small,(514) 555-8054,54,H1J 1C3
+10273,37,45.86,10,1696.82,2019-07-21,3051,Shipped,Ships,S72_3212,Petit Auto,Rue Joseph-Bens 532,Bruxelles,Belgium,Dewey,Catherine,Small,(02) 5554 67,54,B-1180
+10283,33,51.32,12,1693.56,2019-08-20,3022,Shipped,Ships,S72_3212,"Royal Canadian Collectables, Ltd.",23 Tsawassen Blvd.,Tsawassen,Canada,Lincoln,Elizabeth,Small,(604) 555-4555,54,T2F 8M4
+10293,32,60.06,1,1921.92,2019-09-09,3003,Shipped,Ships,S72_3212,Amica Models & Co.,Via Monte Bianco 34,Torino,Italy,Accorti,Paolo,Small,011-4988555,54,10100
+10306,35,59.51,6,2082.85,2019-10-14,2969,Shipped,Ships,S72_3212,"AV Stores, Co.",Fauntleroy Circus,Manchester,UK,Ashworth,Victoria,Small,(171) 555-1555,54,EC2 5NT
+10315,40,55.69,5,2227.6,2019-10-29,2955,Shipped,Ships,S72_3212,La Rochelle Gifts,"67, rue des Cinquante Otages",Nantes,France,Labrune,Janine,Small,40.67.8555,54,44000
+10327,37,86.74,4,3209.38,2019-11-10,2944,Resolved,Ships,S72_3212,Danish Wholesale Imports,Vinb'ltet 34,Kobenhavn,Denmark,Petersen,Jytte,Medium,31 12 3555,54,1734
+10337,42,97.16,5,4080.72,2019-11-21,2934,Shipped,Ships,S72_3212,Classic Legends Inc.,5905 Pompton St.,NYC,USA,Hernandez,Maria,Medium,2125558493,54,10022
+10350,20,112.22,15,2244.4,2019-12-02,2924,Shipped,Ships,S72_3212,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Small,(91) 555 94 44,54,28034
+10373,29,137.19,1,3978.51,2020-01-31,2865,Shipped,Ships,S72_3212,"Oulu Toy Supplies, Inc.",Torikatu 38,Oulu,Finland,Koskitalo,Pirkko,Medium,981-443655,54,90110
+10386,43,125.99,4,5417.57,2020-03-01,2836,Resolved,Ships,S72_3212,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,Spain,Freyre,Diego,Medium,(91) 555 94 44,54,28034
+10397,34,62.24,1,2116.16,2020-03-28,2810,Shipped,Ships,S72_3212,Alpha Cognac,1 rue Alsace-Lorraine,Toulouse,France,Roulet,Annette,Small,61.77.6555,54,31000
+10414,47,65.52,9,3079.44,2020-05-06,2772,On Hold,Ships,S72_3212,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,USA,Yoshido,Juri,Medium,6175559555,54,51003
