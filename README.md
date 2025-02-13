@@ -60,7 +60,3 @@ ALTER TABLE my_table ALTER COLUMN dob TYPE TIMESTAMP;
 - Improved column matching using embeddings.  
 - Integration with schema migration tools.  
 
-## License  
-This project is licensed under the MIT License.  
-
-Let me know if you want any modifications! 🚀

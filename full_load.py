@@ -2,26 +2,21 @@ import psycopg2
 import pandas as pd
 from psycopg2 import sql
 
-# PostgreSQL connection details
-host = "localhost"  # Replace with your host
-port = "5432"       # Replace with your port
-user = "postgres"   # Replace with your username
-password = "password"  # Replace with your password
+host = "localhost" 
+port = "5432"
+user = "postgres"
+password = "password"
 
-# Database and table names
 db_name = "auto_sales"
 table_name = "full_orders"
-csv_file = "data/auto_sales_data.csv"  # Path to your CSV file
+csv_file = "data/auto_sales_data.csv"
 
-# Connect to PostgreSQL and ensure the database exists
 def ensure_database():
     try:
-        # Connect to the default database
         conn = psycopg2.connect(dbname="postgres", user=user, password=password, host=host, port=port)
         conn.autocommit = True
         cursor = conn.cursor()
         
-        # Check if the database exists
         cursor.execute(f"SELECT 1 FROM pg_database WHERE datname = '{db_name}'")
         if not cursor.fetchone():
             cursor.execute(f"CREATE DATABASE {db_name}")
@@ -34,7 +29,6 @@ def ensure_database():
     except Exception as e:
         print(f"Error ensuring database: {e}")
 
-# Create the table in the auto_sales database
 def create_table():
     try:
         conn = psycopg2.connect(dbname=db_name, user=user, password=password, host=host, port=port)
@@ -42,7 +36,6 @@ def create_table():
         
         cursor.execute(f"DROP TABLE IF EXISTS {table_name}")
 
-        # Create the table
         cursor.execute(f"""
             CREATE TABLE IF NOT EXISTS {table_name} (
                 ORDERNUMBER INT,
@@ -76,17 +69,14 @@ def create_table():
     except Exception as e:
         print(f"Error creating table: {e}")
 
-# Insert data into the table
 def insert_data():
     try:
-        # Load data from the CSV file
         data = pd.read_csv(csv_file)
         data['ORDERDATE'] = pd.to_datetime(data['ORDERDATE'], format='%d/%m/%Y').dt.strftime('%Y-%m-%d')
 
         conn = psycopg2.connect(dbname=db_name, user=user, password=password, host=host, port=port)
         cursor = conn.cursor()
         
-        # Insert data row by row
         for _, row in data.iterrows():
             insert_query = sql.SQL(f"""
                 INSERT INTO {table_name} (
@@ -108,7 +98,6 @@ def insert_data():
     except Exception as e:
         print(f"Error inserting data: {e}")
 
-# Main script execution
 if __name__ == "__main__":
     ensure_database()
     create_table()
